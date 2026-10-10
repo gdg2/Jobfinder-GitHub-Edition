@@ -1,84 +1,37 @@
+
 {
-  "_README": "Search settings for this fork: creative leadership / creative strategy / AI-creative roles, Milan and Istanbul in any arrangement, remote roles open outside the US. No personal data belongs here (the repo may be public); candidate profile/CV stay in Actions secrets.",
+  "_README": "Job search configuration for mechanical engineering roles in the Netherlands.",
   "profile": {
-    "title": "Creative Leadership Job Tracker",
-    "subtitle": "Milan · Istanbul · Remote (EU / worldwide)",
-    "emoji": "🎬"
+    "title": "Mechanical Engineering Job Tracker",
+    "subtitle": "Mechanical Engineering · Netherlands",
+    "emoji": "⚙️"
   },
   "keywords": {
     "include": [
-      "creative director",
-      "associate creative director",
-      "executive creative director",
-      "group creative director",
-      "creative lead",
-      "head of creative",
-      "creative strategist",
-      "creative strategy",
-      "brand strategist",
-      "brand strategy",
-      "head of brand",
-      "content strategy lead",
-      "creative producer",
-      "ai creative",
-      "ai producer",
-      "ai lead",
-      "creative technologist",
-      "integrated creative",
-      "brand creative",
-      "campaign strategist",
-      "creative innovation",
-      "senior art director",
-      "conceptual art director",
-      "direttore creativo",
-      "kreatif direktör",
-      "yaratıcı yönetmen",
-      "marka stratejisti",
-      "ugc",
-      "ai creative producer",
-      "ai video",
-      "ai content producer",
-      "generative ai",
-      "genai creative",
-      "ai artist",
-      "previs",
-      "pitch creative",
-      "senior creative",
-      "content creative lead",
-      "performance creative strategist",
-      "creative operations",
-      "creative ops",
-      "ai creative strategist",
-      "brand creative strategist",
-      "ai content creative"
+      "mechanical engineer",
+      "mechanical engineering",
+      "mechanical design engineer",
+      "mechanical design",
+      "mechanical designer",
+      "manufacturing engineer",
+      "product development engineer",
+      "process engineer",
+      "mechatronics engineer",
+      "HVAC engineer",
+      "CAD engineer",
+      "industrial engineer",
+      "maintenance engineer",
+      "mechanical project engineer",
+      "design engineer"
     ],
     "exclude": [
-      "intern",
       "internship",
-      "stage",
-      "stagista",
-      "tirocinio",
-      "stajyer",
+      "intern",
       "trainee",
       "apprentice",
-      "junior",
-      "jr",
-      "assistant",
-      "coordinator",
       "working student",
       "werkstudent",
-      "volunteer",
-      "engineer",
-      "developer",
-      "categoria protetta",
-      "dutch speaking",
-      "german speaking",
-      "french speaking",
-      "spanish speaking",
-      "swedish speaking",
-      "norwegian speaking",
-      "danish speaking",
-      "polish speaking"
+      "volunteer"
     ],
     "fuzzy_seniority": [],
     "fuzzy_domain": [],
@@ -86,30 +39,41 @@
   },
   "search_terms": {
     "linkedin": [
-      "creative strategist",
-      "AI creative",
-      "creative producer",
-      "integrated creative",
-      "creative technologist",
-      "creative lead",
-      "brand creative",
-      "performance creative strategist"
+      "mechanical engineer",
+      "mechanical design engineer",
+      "mechanical engineering",
+      "manufacturing engineer",
+      "product development engineer",
+      "process engineer",
+      "mechatronics engineer",
+      "HVAC engineer",
+      "CAD engineer",
+      "maintenance engineer"
     ],
     "indeed": [
-      "creative strategist",
-      "AI creative",
-      "creative producer",
-      "integrated creative",
-      "creative technologist",
-      "creative lead"
+      "mechanical engineer",
+      "mechanical design engineer",
+      "mechanical engineering",
+      "manufacturing engineer",
+      "product development engineer",
+      "process engineer",
+      "mechatronics engineer",
+      "HVAC engineer",
+      "CAD engineer",
+      "maintenance engineer"
     ],
-    "glassdoor": [],
+    "glassdoor": [
+      "mechanical engineer",
+      "mechanical design engineer",
+      "manufacturing engineer"
+    ],
     "ziprecruiter": [],
     "google_jobs": [
-      "creative strategist remote",
-      "AI creative remote",
-      "creative technologist remote",
-      "creative lead remote"
+      "mechanical engineer jobs Netherlands",
+      "mechanical design engineer jobs Netherlands",
+      "manufacturing engineer jobs Netherlands",
+      "product development engineer jobs Netherlands",
+      "mechatronics engineer jobs Netherlands"
     ],
     "hiring_cafe": [],
     "calcareers": [],
@@ -120,39 +84,28 @@
   "locations": {
     "linkedin": [
       {
-        "name": "Worldwide (remote)",
-        "location": "Worldwide",
-        "geoId": "92000000",
-        "f_WT": "2"
-      },
-      {
-        "name": "European Union (remote)",
-        "location": "European Union",
-        "geoId": "91000000",
-        "f_WT": "2"
-      },
-      {
-        "name": "Dubai",
-        "location": "Dubai, United Arab Emirates",
+        "name": "Netherlands",
+        "location": "Netherlands",
         "geoId": ""
       }
     ],
     "indeed": [
       {
-        "location": "remote",
-        "country": "worldwide"
-      },
-      {
-        "location": "Dubai",
-        "country": "United Arab Emirates"
+        "location": "Netherlands",
+        "country": "Netherlands"
       }
     ],
-    "glassdoor": [],
+    "glassdoor": [
+      {
+        "location": "Netherlands",
+        "country": "Netherlands"
+      }
+    ],
     "ziprecruiter": [],
     "google_jobs": [
       {
-        "location": "Dubai, United Arab Emirates",
-        "country": "United Arab Emirates"
+        "location": "Netherlands",
+        "country": "Netherlands"
       }
     ],
     "hiring_cafe": [],
@@ -166,15 +119,25 @@
   },
   "location_filter": {
     "terms": [
-      "remote",
-      "worldwide",
-      "anywhere",
-      "global",
-      "emea",
-      "europe",
-      "dubai",
-      "uae",
-      "united arab emirates"
+      "netherlands",
+      "nederland",
+      "amsterdam",
+      "rotterdam",
+      "utrecht",
+      "eindhoven",
+      "delft",
+      "the hague",
+      "den haag",
+      "groningen",
+      "tilburg",
+      "enschede",
+      "maastricht",
+      "nijmegen",
+      "breda",
+      "arnhem",
+      "leiden",
+      "zwolle",
+      "remote"
     ]
   },
   "discovery_lanes": {
@@ -193,40 +156,48 @@
   "priority_topics": {
     "terms": [
       [
-        "AI creative",
-        "\\bai\\b|generative|genai"
+        "Mechanical Engineering",
+        "mechanical engineer|mechanical engineering|mechanical design"
       ],
       [
-        "Dubai",
-        "dubai|uae|united arab emirates"
+        "Manufacturing",
+        "manufacturing engineer|production engineer"
+      ],
+      [
+        "Mechatronics",
+        "mechatronics|mechatronic"
       ]
     ]
   },
   "role_categories": {
     "terms": [
       [
-        "Creative Director",
-        "creative director|head of creative|direttore creativo|kreatif direkt"
+        "Mechanical Engineering",
+        "mechanical engineer|mechanical engineering"
       ],
       [
-        "Creative Lead",
-        "creative lead|lead creative"
+        "Mechanical Design",
+        "mechanical design|design engineer|CAD engineer"
       ],
       [
-        "Strategy",
-        "strateg"
+        "Manufacturing and Production",
+        "manufacturing engineer|production engineer"
       ],
       [
-        "AI Creative",
-        "\\bai\\b|generative"
+        "Product Development",
+        "product development engineer|product design"
       ],
       [
-        "Art Direction",
-        "art director"
+        "Process Engineering",
+        "process engineer"
       ],
       [
-        "Producer",
-        "producer"
+        "Mechatronics and HVAC",
+        "mechatronics|HVAC"
+      ],
+      [
+        "Maintenance Engineering",
+        "maintenance engineer"
       ],
       [
         "Other",
@@ -245,9 +216,11 @@
   },
   "google_jobs": {
     "queries": [
-      "creative director jobs in Milan",
-      "creative strategist jobs in Milan",
-      "creative director jobs in Istanbul"
+      "mechanical engineer jobs Netherlands",
+      "mechanical design engineer jobs Netherlands",
+      "manufacturing engineer jobs Netherlands",
+      "product development engineer jobs Netherlands",
+      "mechatronics engineer jobs Netherlands"
     ]
   }
 }
