@@ -1,0 +1,226 @@
+
+{
+  "_README": "Job search configuration for mechanical engineering roles in the Netherlands.",
+  "profile": {
+    "title": "Mechanical Engineering Job Tracker",
+    "subtitle": "Mechanical Engineering · Netherlands",
+    "emoji": "⚙️"
+  },
+  "keywords": {
+    "include": [
+      "mechanical engineer",
+      "mechanical engineering",
+      "mechanical design engineer",
+      "mechanical design",
+      "mechanical designer",
+      "manufacturing engineer",
+      "product development engineer",
+      "process engineer",
+      "mechatronics engineer",
+      "HVAC engineer",
+      "CAD engineer",
+      "industrial engineer",
+      "maintenance engineer",
+      "mechanical project engineer",
+      "design engineer"
+    ],
+    "exclude": [
+      "internship",
+      "intern",
+      "trainee",
+      "apprentice",
+      "working student",
+      "werkstudent",
+      "volunteer"
+    ],
+    "fuzzy_seniority": [],
+    "fuzzy_domain": [],
+    "fuzzy_exclude": []
+  },
+  "search_terms": {
+    "linkedin": [
+      "mechanical engineer",
+      "mechanical design engineer",
+      "mechanical engineering",
+      "manufacturing engineer",
+      "product development engineer",
+      "process engineer",
+      "mechatronics engineer",
+      "HVAC engineer",
+      "CAD engineer",
+      "maintenance engineer"
+    ],
+    "indeed": [
+      "mechanical engineer",
+      "mechanical design engineer",
+      "mechanical engineering",
+      "manufacturing engineer",
+      "product development engineer",
+      "process engineer",
+      "mechatronics engineer",
+      "HVAC engineer",
+      "CAD engineer",
+      "maintenance engineer"
+    ],
+    "glassdoor": [
+      "mechanical engineer",
+      "mechanical design engineer",
+      "manufacturing engineer"
+    ],
+    "ziprecruiter": [],
+    "google_jobs": [
+      "mechanical engineer jobs Netherlands",
+      "mechanical design engineer jobs Netherlands",
+      "manufacturing engineer jobs Netherlands",
+      "product development engineer jobs Netherlands",
+      "mechatronics engineer jobs Netherlands"
+    ],
+    "hiring_cafe": [],
+    "calcareers": [],
+    "usajobs": [],
+    "governmentjobs": [],
+    "workday": []
+  },
+  "locations": {
+    "linkedin": [
+      {
+        "name": "Netherlands",
+        "location": "Netherlands",
+        "geoId": ""
+      }
+    ],
+    "indeed": [
+      {
+        "location": "Netherlands",
+        "country": "Netherlands"
+      }
+    ],
+    "glassdoor": [
+      {
+        "location": "Netherlands",
+        "country": "Netherlands"
+      }
+    ],
+    "ziprecruiter": [],
+    "google_jobs": [
+      {
+        "location": "Netherlands",
+        "country": "Netherlands"
+      }
+    ],
+    "hiring_cafe": [],
+    "linkedin_partitions": {
+      "states": [],
+      "high_volume": {
+        "locations": [],
+        "day_slices": true
+      }
+    }
+  },
+  "location_filter": {
+    "terms": [
+      "netherlands",
+      "nederland",
+      "amsterdam",
+      "rotterdam",
+      "utrecht",
+      "eindhoven",
+      "delft",
+      "the hague",
+      "den haag",
+      "groningen",
+      "tilburg",
+      "enschede",
+      "maastricht",
+      "nijmegen",
+      "breda",
+      "arnhem",
+      "leiden",
+      "zwolle",
+      "remote"
+    ]
+  },
+  "discovery_lanes": {
+    "enabled": false,
+    "append_remote_terms": false
+  },
+  "employers": {
+    "priority": [],
+    "exclude": [
+      "jobgether",
+      "jobleads",
+      "bebee",
+      "hirelatam"
+    ]
+  },
+  "priority_topics": {
+    "terms": [
+      [
+        "Mechanical Engineering",
+        "mechanical engineer|mechanical engineering|mechanical design"
+      ],
+      [
+        "Manufacturing",
+        "manufacturing engineer|production engineer"
+      ],
+      [
+        "Mechatronics",
+        "mechatronics|mechatronic"
+      ]
+    ]
+  },
+  "role_categories": {
+    "terms": [
+      [
+        "Mechanical Engineering",
+        "mechanical engineer|mechanical engineering"
+      ],
+      [
+        "Mechanical Design",
+        "mechanical design|design engineer|CAD engineer"
+      ],
+      [
+        "Manufacturing and Production",
+        "manufacturing engineer|production engineer"
+      ],
+      [
+        "Product Development",
+        "product development engineer|product design"
+      ],
+      [
+        "Process Engineering",
+        "process engineer"
+      ],
+      [
+        "Mechatronics and HVAC",
+        "mechatronics|HVAC"
+      ],
+      [
+        "Maintenance Engineering",
+        "maintenance engineer"
+      ],
+      [
+        "Other",
+        "."
+      ]
+    ]
+  },
+  "notify": {
+    "min_fit": 60,
+    "telegram_min_fit": 0,
+    "daily_cap": 30,
+    "weekly_digest": {
+      "enabled": false,
+      "days": 7
+    }
+  },
+  "google_jobs": {
+    "queries": [
+      "mechanical engineer jobs Netherlands",
+      "mechanical design engineer jobs Netherlands",
+      "manufacturing engineer jobs Netherlands",
+      "product development engineer jobs Netherlands",
+      "mechatronics engineer jobs Netherlands"
+    ]
+  }
+}
