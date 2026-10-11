@@ -1,20 +1,31 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-10-11 11:01 UTC*
+*Last updated: 2026-10-11 20:34 UTC*
 
-**3 new role(s)** since last run · 70 total in last 168h
+**4 new role(s)** since last run · 73 total in last 168h
 
-### [Senior Electro Mechanical Engineer](https://nl.indeed.com/viewjob?jk=e9fe06f4e47b74b5) — Capgemini Engineering
-- 📍 **Location:** Eindhoven, NB, Netherlands
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-08
-
-### [Facilities / Maintenance Engineer](https://ae.indeed.com/viewjob?jk=670e56ce241be90a) — AL REEM REAL ESTATE
-- 📍 **Location:** Dubai, DU, United Arab Emirates
+### [Reliability & Maintenance Engineer | DSL-01](https://nl.indeed.com/viewjob?jk=0dac04230dba090c) — SkyNRG
+- 📍 **Location:** Delfzijl, GR, Netherlands
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-07
+- 🕒 **Posted:** 2026-10-09
 
-### [Swimming Pool Maintenance Engineer](https://ae.indeed.com/viewjob?jk=c1c24e125d22c6b9) — AL REEM REAL ESTATE
+### [Mechanical Design & Site Engineer](https://ae.indeed.com/viewjob?jk=f68f750adadeaafb) — Imperial Group Pty Ltd
 - 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $8000–$10k/mo
 - **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-11
+
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=f2b8de3ad1b48b7c) — Adams Fire & Safety LLC
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $2000–$2500/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Faculty - Mechanical Engineering](https://ae.indeed.com/viewjob?jk=dd2eba9bea8f543a) — ASTI Academy
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $4000–$6000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-11
