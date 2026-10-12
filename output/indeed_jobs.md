@@ -1,31 +1,34 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-10-11 20:34 UTC*
+*Last updated: 2026-10-12 12:27 UTC*
 
-**4 new role(s)** since last run · 73 total in last 168h
+**5 new role(s)** since last run · 71 total in last 168h
 
-### [Reliability & Maintenance Engineer | DSL-01](https://nl.indeed.com/viewjob?jk=0dac04230dba090c) — SkyNRG
-- 📍 **Location:** Delfzijl, GR, Netherlands
+### [Manufacturing Engineer](https://nl.indeed.com/viewjob?jk=617d81c7fe94c4de) — ERIKS
+- 📍 **Location:** Alkmaar, NH, Netherlands
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-09
+- 🕒 **Posted:** 2026-10-12
 
-### [Mechanical Design & Site Engineer](https://ae.indeed.com/viewjob?jk=f68f750adadeaafb) — Imperial Group Pty Ltd
+### [Mechanical Engineer (HVAC)](https://ae.indeed.com/viewjob?jk=3de5e19db21af55c) — Holford Facilities Management LLC
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $8000–$10k/mo
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-11
+- 🕒 **Posted:** 2026-10-12
 
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=f2b8de3ad1b48b7c) — Adams Fire & Safety LLC
+### [Mechanical Design Engineer](https://ae.indeed.com/viewjob?jk=6df01304a90253e5) — Citadel Health Management & Consultancy
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $2000–$2500/mo
+- 💰 **Salary:** $5000–$8000/mo
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-10-12
 
-### [Faculty - Mechanical Engineering](https://ae.indeed.com/viewjob?jk=dd2eba9bea8f543a) — ASTI Academy
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=4abb24f204881f1b) — JNS CONSTRUCTIONS
+- 📍 **Location:** Al Rigga, DU, United Arab Emirates
+- 💰 **Salary:** $4000–$7000/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-08
+
+### [Mechatronics Engineer](https://ae.indeed.com/viewjob?jk=c47bc635cc645d9d) — OPTION 1 EVENT SERVICES
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $4000–$6000/mo
+- 💰 **Salary:** $6000/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-11
+- 🕒 **Posted:** 2026-10-12
