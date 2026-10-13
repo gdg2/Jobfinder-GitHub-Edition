@@ -1,65 +1,53 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-10-12 23:14 UTC*
+*Last updated: 2026-10-13 12:11 UTC*
 
-**10 new role(s)** since last run · 75 total in last 168h
+**8 new role(s)** since last run · 75 total in last 168h
 
-### [Mechanical engineer](https://nl.indeed.com/viewjob?jk=7be0c46860d2456b) — Bega Special Tools
-- 📍 **Location:** Vaassen, GE, Netherlands
-- 💰 **Salary:** $3800–$4800/mo
+### [Mechanical Engineer](https://nl.indeed.com/viewjob?jk=b8a8f02191f28a0b) — Lekkerkerker Groep
+- 📍 **Location:** Lopik, UT, Netherlands
+- 💰 **Salary:** $4351–$5288/mo
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-12
+- **Job type:** contract
+- 🕒 **Posted:** 2026-10-13
 
-### [Lead Piping & Mechanical Engineer](https://nl.indeed.com/viewjob?jk=0be60fa630c00802) — Vecon Engineers
-- 📍 **Location:** Geleen, LI, Netherlands
-- 💰 **Salary:** $4500–$6500/mo
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-12
-
-### [Associate Process Engineer](https://nl.indeed.com/viewjob?jk=866807d51fc2a062) — McDermott
-- 📍 **Location:** Den Haag, ZH, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-12
-
-### [FPGA Design Engineer](https://nl.indeed.com/viewjob?jk=d1f3dee5de7d1594) — ASML
-- 📍 **Location:** Veldhoven, NB, Netherlands
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-07
-
-### [Process Engineer Protein Extraction](https://nl.indeed.com/viewjob?jk=6a83e687431efaf8) — NL1
-- 📍 **Location:** Dinteloord, NB, Netherlands
-- 💰 **Salary:** $4500–$6500/mo
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-10-12
-
-### [Process Engineer- Photonics Packaging](https://nl.indeed.com/viewjob?jk=9372f818095f24b4) — TNO
+### [Process engineer photonics packaging](https://nl.indeed.com/viewjob?jk=989922032eb5ad90) — TNO
 - 📍 **Location:** Nijmegen, GE, Netherlands
 - **Work mode:** On-site
 - **Job type:** parttime, fulltime
-- 🕒 **Posted:** 2026-10-12
+- 🕒 **Posted:** 2026-10-13
 
-### [Process Engineer](https://nl.indeed.com/viewjob?jk=49bd8a7e653a4100) — Selo
-- 📍 **Location:** Hengelo OV, OV, Netherlands
-- 💰 **Salary:** $2753.10–$5000/mo
+### [Maintenance Engineer](https://nl.indeed.com/viewjob?jk=94c0c82d7d505f3b) — Van Gelder Groep
+- 📍 **Location:** Hazerswoude-Dorp, ZH, Netherlands
+- 💰 **Salary:** $4000–$6500/mo
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-12
+- **Job type:** parttime, fulltime
+- 🕒 **Posted:** 2026-10-13
 
-### [Maintenance Engineer W](https://nl.indeed.com/viewjob?jk=5a3483d26008375b) — Vecon Engineers
-- 📍 **Location:** Geleen, LI, Netherlands
-- 💰 **Salary:** $3800–$5000/mo
+### [Heavy Equipment Mechanical Engineer – PMV](https://ae.indeed.com/viewjob?jk=05bb4fdb1fb70385) — Al Ghanim International
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $8000–$15k/mo
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-12
+- 🕒 **Posted:** 2026-10-13
 
-### [Diploma Mechanical Engineer](https://ae.indeed.com/viewjob?jk=6aa24fe87d9131d0) — Real Cool Air conditioning system LLC
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=4abb24f204881f1b) — JNS CONSTRUCTIONS
+- 📍 **Location:** Al Rigga, DU, United Arab Emirates
+- 💰 **Salary:** $4000–$7000/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-08
+
+### [Facilities / Maintenance Engineer](https://ae.indeed.com/viewjob?jk=670e56ce241be90a) — AL REEM REAL ESTATE
 - 📍 **Location:** Dubai, DU, United Arab Emirates
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-12
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
 
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=f54cfef7e07a3f00) — ARTELIA
+### [HVAC ENGINEER](https://ae.indeed.com/viewjob?jk=4ff36a652f3f7ef2) — Acute Technical Services
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $1100–$5300/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-13
+
+### [Swimming Pool Maintenance Engineer](https://ae.indeed.com/viewjob?jk=c1c24e125d22c6b9) — AL REEM REAL ESTATE
 - 📍 **Location:** Dubai, DU, United Arab Emirates
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-12
+- 🕒 **Posted:** 2026-10-11
