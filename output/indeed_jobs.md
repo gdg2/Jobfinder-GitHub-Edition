@@ -1,36 +1,53 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-10-14 09:44 UTC*
+*Last updated: 2026-10-14 15:29 UTC*
 
-**5 new role(s)** since last run · 75 total in last 168h
+**8 new role(s)** since last run · 70 total in last 168h
 
-### [Mechanical Engineer](https://nl.indeed.com/viewjob?jk=5eb6a5978ae37cec) — E2M Technologies
-- 📍 **Location:** Amsterdam Oost, NH, Netherlands
+### [Senior Mechanical Engineer](https://nl.indeed.com/viewjob?jk=9c65656b69147890) — VIRO
+- 📍 **Location:** Arnhem, GE, Netherlands
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-14
+
+### [Senior Mechanical Design Engineer / constructeur](https://nl.indeed.com/viewjob?jk=726806bb76ec6f9a) — Cojafex B.V.
+- 📍 **Location:** Rotterdam, ZH, Netherlands
+- 💰 **Salary:** $4500–$7500/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-14
 
-### [Junior/Medior Maintenance Engineer](https://nl.indeed.com/viewjob?jk=0dcfb83664091d40) — VolkerRail
-- 📍 **Location:** Vianen, UT, Netherlands
-- 💰 **Salary:** $3900–$5400/mo
+### [Senior Mechanical Project Engineer](https://nl.indeed.com/viewjob?jk=0cbfaa89cf9e3bf8) — Vecon Engineers
+- 📍 **Location:** Geleen, LI, Netherlands
+- 💰 **Salary:** $4000–$5950/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-14
+
+### [Optical Design Engineer](https://nl.indeed.com/viewjob?jk=e046cdf252014867) — Settels Savenije Group of Companies
+- 📍 **Location:** Eindhoven, NB, Netherlands
+- 💰 **Salary:** $5000–$7500/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-14
 
-### [Maintenance Engineer (onderhoudsmonteur) 2 ploegen + storingsdienst](https://nl.indeed.com/viewjob?jk=b5cd28b92ac65c33) — Baantje Uitzendbureau
-- 📍 **Location:** Lomm, LI, Netherlands
-- 💰 **Salary:** $3300–$4200/mo
+### [Mechanical Designer](https://nl.indeed.com/viewjob?jk=8618b94c6fb7daca) — TMC
+- 📍 **Location:** Eindhoven, NB, Netherlands
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-14
+
+### [Maintenance Engineer](https://nl.indeed.com/viewjob?jk=945e382be8f47176) — Medline Industries
+- 📍 **Location:** Varsseveld, GE, Netherlands
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-14
 
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=86acf158275b2e7b) — Dalkia
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=4abb24f204881f1b) — JNS CONSTRUCTIONS
+- 📍 **Location:** Al Rigga, DU, United Arab Emirates
+- 💰 **Salary:** $4000–$7000/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-08
+
+### [HVAC Engineer](https://ae.indeed.com/viewjob?jk=0470f2126b3171b7) — Haus Middle East
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $10–$15/mo
+- 💰 **Salary:** $7000–$8000/mo
 - **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-10-14
-
-### [Mechanical Design Engineer - REVIT](https://ae.indeed.com/viewjob?jk=13699279498476b0) — Nad Al Shiba Engineering Consultants
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-14
