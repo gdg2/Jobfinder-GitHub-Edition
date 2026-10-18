@@ -1,31 +1,28 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-10-18 14:10 UTC*
+*Last updated: 2026-10-18 18:56 UTC*
 
-**4 new role(s)** since last run · 86 total in last 168h
+**4 new role(s)** since last run · 85 total in last 168h
 
-### [Senior Mechanical Engineer](https://nl.indeed.com/viewjob?jk=58da2114bb2c3fcc) — Winthrop Technologies
-- 📍 **Location:** Amsterdam, NH, Netherlands
+### [Competence Process Engineer (Tooling)](https://nl.indeed.com/viewjob?jk=e1d0012cb5c36941) — ASML
+- 📍 **Location:** Veldhoven, NB, Netherlands
+- 💰 **Salary:** $67k–$76k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-15
 
-### [Senior Mechanical / Process Engineer](https://nl.indeed.com/viewjob?jk=fffb29d3d761c47e) — Visionarx GmbH
-- 📍 **Location:** Veghel, NB, Netherlands
-- 💰 **Salary:** $4500–$6000/mo
+### [Process Engineer Protein Extraction](https://nl.indeed.com/viewjob?jk=6a83e687431efaf8) — NL1
+- 📍 **Location:** Dinteloord, NB, Netherlands
+- 💰 **Salary:** $4500–$6500/mo
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-15
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-10-12
 
-### [HVAC ENGINEER](https://ae.indeed.com/viewjob?jk=b5a97c4b6636529a) — Flexway Technical Services
+### [Senior Mechanical Engineer](https://nl.indeed.com/viewjob?jk=9c65656b69147890) — VIRO
+- 📍 **Location:** Arnhem, GE, Netherlands
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-14
+
+### [Mechanical engineer](https://ae.indeed.com/viewjob?jk=cfb98c91173c3cde) — Egis Group
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $7000–$8000/mo
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-13
-
-### [Maintenance Engineer](https://ae.indeed.com/viewjob?jk=721f6719ac49d31d) — Mohamed Ibrahim Obaidalla General Trading
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $3000/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-15
+- **Job type:** contract
+- 🕒 **Posted:** 2026-10-16
