@@ -1,28 +1,37 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-10-18 18:56 UTC*
+*Last updated: 2026-10-19 10:17 UTC*
 
-**4 new role(s)** since last run · 85 total in last 168h
+**5 new role(s)** since last run · 81 total in last 168h
 
-### [Competence Process Engineer (Tooling)](https://nl.indeed.com/viewjob?jk=e1d0012cb5c36941) — ASML
-- 📍 **Location:** Veldhoven, NB, Netherlands
-- 💰 **Salary:** $67k–$76k/yr
+### [Quality & Maintenance Engineer](https://nl.indeed.com/viewjob?jk=4b348b2bc6105e6a) — Danfoss
+- 📍 **Location:** Eindhoven, NB, Netherlands
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-15
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-19
 
-### [Process Engineer Protein Extraction](https://nl.indeed.com/viewjob?jk=6a83e687431efaf8) — NL1
-- 📍 **Location:** Dinteloord, NB, Netherlands
-- 💰 **Salary:** $4500–$6500/mo
+### [Mechanical Design Engineer](https://ae.indeed.com/viewjob?jk=10c53bdf1ff8aa2c) — High Power Signature
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $8000–$10k/mo
 - **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-10-12
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-19
 
-### [Senior Mechanical Engineer](https://nl.indeed.com/viewjob?jk=9c65656b69147890) — VIRO
-- 📍 **Location:** Arnhem, GE, Netherlands
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-14
-
-### [Mechanical engineer](https://ae.indeed.com/viewjob?jk=cfb98c91173c3cde) — Egis Group
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=43bae68952a41cc9) — Al shafar electromechanical engineering L.L.C
 - 📍 **Location:** Dubai, DU, United Arab Emirates
 - **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-10-16
+- **Job type:** fulltime, contract
+- 🕒 **Posted:** 2026-10-19
+
+### [DIPLOMA MECHANICAL ENGINEER](https://ae.indeed.com/viewjob?jk=3e3d55aac3de090c) — REAL TIME ELECTROMECHANICAL CONTRACTING LLC
+- 📍 **Location:** Al Qusais, DU, United Arab Emirates
+- 💰 **Salary:** $2000–$2500/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-17
+
+### [Electromechanical Engineering Instructor](https://ae.indeed.com/viewjob?jk=3bb0ab94e691e35e) — Universal Way Academy
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $4000–$6000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-19
