@@ -981,9 +981,9 @@
   "last_run": {
     "source_file": "indeed_jobs.json",
     "min_fit": 0.0,
-    "discovered": 7,
+    "discovered": 8,
     "duplicate": 0,
-    "geography": 3,
+    "geography": 4,
     "remote": 0,
     "restricted": 0,
     "language": 0,
