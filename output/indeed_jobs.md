@@ -1,49 +1,47 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-10-24 09:07 UTC*
+*Last updated: 2026-10-24 14:07 UTC*
 
-**7 new role(s)** since last run · 63 total in last 168h
+**7 new role(s)** since last run · 68 total in last 168h
 
-### [Mechanical Design Engineer](https://nl.indeed.com/viewjob?jk=8f6e8404c2340e64) — Applied Medical
-- 📍 **Location:** Amersfoort, UT, Netherlands
+### [Mechanical Engineer Pompen](https://nl.indeed.com/viewjob?jk=ac4172ed1223d520) — Desoutter GmbH
+- 📍 **Location:** Tolbert, GR, Netherlands
 - **Work mode:** On-site
-- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-20
+
+### [Mechanical Engineering Expert (MSc or PhD) (Remote-Worldwide)](https://nl.indeed.com/viewjob?jk=059e885e91c98df8) — Your Software Supplier
+- 📍 **Location:** Amsterdam, NH, Netherlands
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-10-24
 
-### [Mechanical Design Engineer](https://nl.indeed.com/viewjob?jk=306d32e846ba79c3) — Applied Medical
-- 📍 **Location:** Amersfoort, UT, Netherlands
+### [Mechanical Engineer Pompen](https://nl.indeed.com/viewjob?jk=dabdbb664020f0d2) — Atlas Copco Group
+- 📍 **Location:** Tolbert, GR, Netherlands
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-24
+- 🕒 **Posted:** 2026-10-21
 
-### [PROCESS ENGINEER](https://nl.indeed.com/viewjob?jk=b19b93134c9c3896) — Bufab Flos B.V.
-- 📍 **Location:** Eindhoven, NB, Netherlands
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=00625f11ccd4ab7a) — Relifix Future Technical Services LLC
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $4000–$9000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime, contract
+- 🕒 **Posted:** 2026-10-21
+
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=3718057360581363) — Darwish group of Companies Dubai
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $8000–$12k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-21
 
-### [Mechanical Engineer (DMT License)](https://ae.indeed.com/viewjob?jk=931ed8c8b15a0762) — Five Global Recruitment
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=cc9e9086520cfa08) — High Power Signature
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $5000–$8000/mo
+- 💰 **Salary:** $5000–$6000/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-20
+- 🕒 **Posted:** 2026-10-21
 
-### [Senior Mechanical Engineer](https://ae.indeed.com/viewjob?jk=894ce173361f0638) — Saifco electromechanical works
+### [Civil Design Engineer](https://ae.indeed.com/viewjob?jk=b95564372f75f9fa) — Mario Associates - Mechanical & Electrical Engineering Consultancy
 - 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $8000–$10k/mo
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-19
-
-### [Service /Maintenance Engineer – Active Fire Protection](https://ae.indeed.com/viewjob?jk=2820e2b6e8396247) — Safety World
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $4000–$7000/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-20
-
-### [Electromechanical Engineering Instructor](https://ae.indeed.com/viewjob?jk=3bb0ab94e691e35e) — Universal Way Academy
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $4000–$6000/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-19
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-10-21
