@@ -1,29 +1,49 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-10-23 20:05 UTC*
+*Last updated: 2026-10-24 09:07 UTC*
 
-**4 new role(s)** since last run · 68 total in last 168h
+**7 new role(s)** since last run · 63 total in last 168h
 
-### [Connectivity Design Engineer](https://nl.indeed.com/viewjob?jk=f6df3db3710156e2) — Capgemini Engineering
+### [Mechanical Design Engineer](https://nl.indeed.com/viewjob?jk=8f6e8404c2340e64) — Applied Medical
+- 📍 **Location:** Amersfoort, UT, Netherlands
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-24
+
+### [Mechanical Design Engineer](https://nl.indeed.com/viewjob?jk=306d32e846ba79c3) — Applied Medical
+- 📍 **Location:** Amersfoort, UT, Netherlands
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-24
+
+### [PROCESS ENGINEER](https://nl.indeed.com/viewjob?jk=b19b93134c9c3896) — Bufab Flos B.V.
 - 📍 **Location:** Eindhoven, NB, Netherlands
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-21
 
-### [Manufacturing Engineer Netherlands (m/f/d)](https://nl.indeed.com/viewjob?jk=7fd3a833be6fb6d9) — Kelvion Holding GmbH
-- 📍 **Location:** Doetinchem, GE, Netherlands
-- 💰 **Salary:** $4500–$5750/mo
-- **Work mode:** On-site
-- **Job type:** parttime, fulltime
-- 🕒 **Posted:** 2026-10-21
-
-### [MEP Design Engineer | Design Consultancy | 5+ Years Dubai Experience](https://ae.indeed.com/viewjob?jk=68563cc0d26da7c7) — Al Anwar Architectural Engineering Consultancies
+### [Mechanical Engineer (DMT License)](https://ae.indeed.com/viewjob?jk=931ed8c8b15a0762) — Five Global Recruitment
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $12k/mo
+- 💰 **Salary:** $5000–$8000/mo
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-22
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-20
 
-### [Civil Design Engineer](https://ae.indeed.com/viewjob?jk=b95564372f75f9fa) — Mario Associates - Mechanical & Electrical Engineering Consultancy
+### [Senior Mechanical Engineer](https://ae.indeed.com/viewjob?jk=894ce173361f0638) — Saifco electromechanical works
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $8000–$10k/mo
 - **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-10-21
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-19
+
+### [Service /Maintenance Engineer – Active Fire Protection](https://ae.indeed.com/viewjob?jk=2820e2b6e8396247) — Safety World
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $4000–$7000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-20
+
+### [Electromechanical Engineering Instructor](https://ae.indeed.com/viewjob?jk=3bb0ab94e691e35e) — Universal Way Academy
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $4000–$6000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-19
