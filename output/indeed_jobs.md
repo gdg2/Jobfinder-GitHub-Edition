@@ -1,16 +1,26 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-10-24 19:00 UTC*
+*Last updated: 2026-10-25 09:25 UTC*
 
-**2 new role(s)** since last run · 69 total in last 168h
+**4 new role(s)** since last run · 65 total in last 168h
 
-### [Mechanical Design Engineer](https://nl.indeed.com/viewjob?jk=306d32e846ba79c3) — Applied Medical
-- 📍 **Location:** Amersfoort, UT, Netherlands
+### [PROCESS ENGINEER](https://nl.indeed.com/viewjob?jk=b19b93134c9c3896) — Bufab Flos B.V.
+- 📍 **Location:** Eindhoven, NB, Netherlands
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-24
+- 🕒 **Posted:** 2026-10-21
 
-### [MEP Design Engineer | Design Consultancy | 5+ Years Dubai Experience](https://ae.indeed.com/viewjob?jk=68563cc0d26da7c7) — Al Anwar Architectural Engineering Consultancies
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $12k/mo
+### [Connectivity Design Engineer](https://nl.indeed.com/viewjob?jk=f6df3db3710156e2) — Capgemini Engineering
+- 📍 **Location:** Eindhoven, NB, Netherlands
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-22
+- 🕒 **Posted:** 2026-10-21
+
+### [Maintenance Engineer](https://nl.indeed.com/viewjob?jk=adffa92949704e50) — Ascom
+- 📍 **Location:** Zwolle, OV, Netherlands
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-25
+
+### [Junior Mechanical Engineer – Factory Production](https://ae.indeed.com/viewjob?jk=6c27b682317b8e46) — PARQUET ARTISTS TECHNICAL WORKS - L.L.C - S.P.C
+- 📍 **Location:** Jebel Ali, DU, United Arab Emirates
+- 💰 **Salary:** $2000/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-24
