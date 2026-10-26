@@ -1,61 +1,65 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-10-26 10:31 UTC*
+*Last updated: 2026-10-26 16:59 UTC*
 
-**9 new role(s)** since last run · 68 total in last 168h
+**10 new role(s)** since last run · 65 total in last 168h
 
-### [Senior Mechanical Design Engineer – E-bikes](https://nl.indeed.com/viewjob?jk=6212ce018ad89934) — QWIC
-- 📍 **Location:** Amsterdam Noord, NH, Netherlands
-- 💰 **Salary:** $4500–$5800/mo
+### [Senior Mechanical Engineer(R&D)](https://nl.indeed.com/viewjob?jk=d43371234db027c2) — ASSA ABLOY Group
+- 📍 **Location:** Barneveld, GE, Netherlands
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-26
+
+### [Senior Staff CAD Engineer](https://nl.indeed.com/viewjob?jk=2c146e59e355e5e6) — Renesas
+- 📍 **Location:** Den Bosch, NB, Netherlands
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-26
 
-### [Mechanical Design Engineer](https://nl.indeed.com/viewjob?jk=8f6e8404c2340e64) — Applied Medical
-- 📍 **Location:** Amersfoort, UT, Netherlands
+### [PROCESS ENGINEER](https://nl.indeed.com/viewjob?jk=b19b93134c9c3896) — Bufab Flos B.V.
+- 📍 **Location:** Eindhoven, NB, Netherlands
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-24
+- 🕒 **Posted:** 2026-10-21
 
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=a8e2c148464f7be9) — finest technical services LLC
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $4000–$5000/mo
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-26
-
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=05a805a5b2516c2a) — Real Cool Air conditioning system LLC
-- 📍 **Location:** Dubai, DU, United Arab Emirates
+### [Maintenance Engineer Procesindustrie Regio Breda](https://nl.indeed.com/viewjob?jk=0f57d8dfeeeef908) — Dosign Engineering
+- 📍 **Location:** Breda, NB, Netherlands
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-26
 
-### [Mechanical Engineer - Site Supervision](https://ae.indeed.com/viewjob?jk=bed088bbba9c11ba) — Atrium Architectural & Engineering Consultancy
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=b2bfdded67a11226) — El Dani Motors LLC
 - 📍 **Location:** Dubai, DU, United Arab Emirates
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-26
 
-### [PEB Design Engineer](https://ae.indeed.com/viewjob?jk=bad1aac5aca76164) — BAWABAT AL HUSN FACILITIES MANAGEMENT SERVICE
+### [Mechanical Project Engineer](https://ae.indeed.com/viewjob?jk=dfb7ffe8976fe5cf) — Al Rehab Alarabi Build. Co. LLC. SP
 - 📍 **Location:** Dubai, DU, United Arab Emirates
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-26
 
-### [MEP Design Engineer | Design Consultancy | 5+ Years Dubai Experience](https://ae.indeed.com/viewjob?jk=68563cc0d26da7c7) — Al Anwar Architectural Engineering Consultancies
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=e6d87a5dcb5009ea) — Overland Building Contracting LLC
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $12k/mo
+- 💰 **Salary:** $3000–$5000/mo
+- **Work mode:** On-site
+- **Job type:** contract
+- 🕒 **Posted:** 2026-10-23
+
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=88b3d85228b1ef5e) — Green Growth Construction LLC
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $7000–$10k/mo
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-22
 
-### [Civil Design Engineer](https://ae.indeed.com/viewjob?jk=b95564372f75f9fa) — Mario Associates - Mechanical & Electrical Engineering Consultancy
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=00625f11ccd4ab7a) — Relifix Future Technical Services LLC
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $8000–$10k/mo
+- 💰 **Salary:** $4000–$9000/mo
 - **Work mode:** On-site
-- **Job type:** parttime
+- **Job type:** fulltime, contract
 - 🕒 **Posted:** 2026-10-21
 
-### [R&D Design Engineer](https://ae.indeed.com/viewjob?jk=43e6356022b365db) — Laser Craft Industries
-- 📍 **Location:** Al Quoz, DU, United Arab Emirates
-- 💰 **Salary:** $2500–$4000/mo
+### [Mechatronics Engineer](https://ae.indeed.com/viewjob?jk=d87989b118d8d08f) — SUREFLOW
+- 📍 **Location:** Dubai Healthcare City, DU, United Arab Emirates
+- 💰 **Salary:** $7000–$9000/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-26
