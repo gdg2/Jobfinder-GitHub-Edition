@@ -1,65 +1,89 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-10-26 16:59 UTC*
+*Last updated: 2026-10-27 10:03 UTC*
 
-**10 new role(s)** since last run · 65 total in last 168h
+**14 new role(s)** since last run · 70 total in last 168h
 
-### [Senior Mechanical Engineer(R&D)](https://nl.indeed.com/viewjob?jk=d43371234db027c2) — ASSA ABLOY Group
-- 📍 **Location:** Barneveld, GE, Netherlands
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Staff CAD Engineer](https://nl.indeed.com/viewjob?jk=2c146e59e355e5e6) — Renesas
-- 📍 **Location:** Den Bosch, NB, Netherlands
+### [Mechanical Engineer](https://nl.indeed.com/viewjob?jk=0d811b4eefcd6414) — Vitestro
+- 📍 **Location:** Utrecht, UT, Netherlands
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-26
 
-### [PROCESS ENGINEER](https://nl.indeed.com/viewjob?jk=b19b93134c9c3896) — Bufab Flos B.V.
+### [Mechanical Engineer](https://nl.indeed.com/viewjob?jk=4ea262b7fce78dc2) — JASA Packaging Solutions
+- 📍 **Location:** Obdam, NH, Netherlands
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-26
+
+### [Mechanical Project Engineer - verpakkingsmachinebouw in regio Eindhoven](https://nl.indeed.com/viewjob?jk=baee384c09899d80) — Dosign Engineering
 - 📍 **Location:** Eindhoven, NB, Netherlands
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-21
-
-### [Maintenance Engineer Procesindustrie Regio Breda](https://nl.indeed.com/viewjob?jk=0f57d8dfeeeef908) — Dosign Engineering
-- 📍 **Location:** Breda, NB, Netherlands
-- **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-26
 
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=b2bfdded67a11226) — El Dani Motors LLC
-- 📍 **Location:** Dubai, DU, United Arab Emirates
+### [Package Design Engineer](https://nl.indeed.com/viewjob?jk=76f8450cb3d316fb) — NXP Semiconductors
+- 📍 **Location:** Nijmegen, GE, Netherlands
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-26
 
-### [Mechanical Project Engineer](https://ae.indeed.com/viewjob?jk=dfb7ffe8976fe5cf) — Al Rehab Alarabi Build. Co. LLC. SP
+### [Mechanical Engineering Expert (MSc or PhD) (Remote-Worldwide)](https://nl.indeed.com/viewjob?jk=059e885e91c98df8) — Your Software Supplier
+- 📍 **Location:** Amsterdam, NH, Netherlands
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-24
+
+### [Process Engineer Wasserij](https://nl.indeed.com/viewjob?jk=2170e1d8f3ec2293) — Ergon
+- 📍 **Location:** Veldhoven, NB, Netherlands
+- 💰 **Salary:** $3246–$4556/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-26
+
+### [Senior Pharmaceutical Packaging and Process Engineer](https://nl.indeed.com/viewjob?jk=1f42c045a01acc99) — Organon Pharmaceuticals
+- 📍 **Location:** Oss, NB, Netherlands
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-26
+
+### [Sr. Mechanical Engineer](https://ae.indeed.com/viewjob?jk=f755c8e60eea1ffc) — ARCCO Group of Companies
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $1/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-27
+
+### [Junior Mechanical Engineer](https://ae.indeed.com/viewjob?jk=5d020978c836668d) — ARP UAE
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $2500–$3800/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-27
+
+### [Mechanical Project Engineer](https://ae.indeed.com/viewjob?jk=c04c5f7a8644f36c) — Al Turath Al Aseel Contracting LLC
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-27
+
+### [Mechanical Engineer - Site Supervision](https://ae.indeed.com/viewjob?jk=bed088bbba9c11ba) — Atrium Architectural & Engineering Consultancy
 - 📍 **Location:** Dubai, DU, United Arab Emirates
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-26
 
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=e6d87a5dcb5009ea) — Overland Building Contracting LLC
+### [Senior Structural Design Engineer](https://ae.indeed.com/viewjob?jk=21b1a9569d8cd439) — BH.NS Engineering Consultants
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $3000–$5000/mo
+- 💰 **Salary:** $15k–$25k/mo
 - **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-10-23
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-26
 
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=88b3d85228b1ef5e) — Green Growth Construction LLC
+### [Senior Principal Process Engineer](https://ae.indeed.com/viewjob?jk=d7536696e2cc7b16) — McDermott
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $7000–$10k/mo
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-22
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-26
 
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=00625f11ccd4ab7a) — Relifix Future Technical Services LLC
+### [Design Engineer](https://ae.indeed.com/viewjob?jk=b2c158d64d8cb8e4) — Manar Holding
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $4000–$9000/mo
+- 💰 **Salary:** $1/mo
 - **Work mode:** On-site
 - **Job type:** fulltime, contract
-- 🕒 **Posted:** 2026-10-21
-
-### [Mechatronics Engineer](https://ae.indeed.com/viewjob?jk=d87989b118d8d08f) — SUREFLOW
-- 📍 **Location:** Dubai Healthcare City, DU, United Arab Emirates
-- 💰 **Salary:** $7000–$9000/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-26
+- 🕒 **Posted:** 2026-10-27
