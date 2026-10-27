@@ -1,89 +1,83 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-10-27 10:03 UTC*
+*Last updated: 2026-10-27 16:01 UTC*
 
-**14 new role(s)** since last run · 70 total in last 168h
+**12 new role(s)** since last run · 73 total in last 168h
 
-### [Mechanical Engineer](https://nl.indeed.com/viewjob?jk=0d811b4eefcd6414) — Vitestro
-- 📍 **Location:** Utrecht, UT, Netherlands
+### [Mechanical Engineer](https://nl.indeed.com/viewjob?jk=81c818fc9025a3d8) — everox
+- 📍 **Location:** Rotterdam, ZH, Netherlands
+- 💰 **Salary:** $55k–$100k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-27
+
+### [Medior Mechatronics Engineer](https://nl.indeed.com/viewjob?jk=39ea30f8d3225ee4) — Artillerie Inrichtingen Armaments B.V.
+- 📍 **Location:** Tilburg, NB, Netherlands
+- 💰 **Salary:** $4000–$5500/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Mechanical Engineer – Armaments & Artillery Systems](https://nl.indeed.com/viewjob?jk=30e34f697000a620) — Artillerie Inrichtingen Armaments B.V.
+- 📍 **Location:** Tilburg, NB, Netherlands
+- 💰 **Salary:** $5500–$6500/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Staff CAD Engineer](https://nl.indeed.com/viewjob?jk=2c146e59e355e5e6) — Renesas
+- 📍 **Location:** Den Bosch, NB, Netherlands
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-26
 
-### [Mechanical Engineer](https://nl.indeed.com/viewjob?jk=4ea262b7fce78dc2) — JASA Packaging Solutions
-- 📍 **Location:** Obdam, NH, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-26
-
-### [Mechanical Project Engineer - verpakkingsmachinebouw in regio Eindhoven](https://nl.indeed.com/viewjob?jk=baee384c09899d80) — Dosign Engineering
-- 📍 **Location:** Eindhoven, NB, Netherlands
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-26
-
-### [Package Design Engineer](https://nl.indeed.com/viewjob?jk=76f8450cb3d316fb) — NXP Semiconductors
-- 📍 **Location:** Nijmegen, GE, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-26
-
-### [Mechanical Engineering Expert (MSc or PhD) (Remote-Worldwide)](https://nl.indeed.com/viewjob?jk=059e885e91c98df8) — Your Software Supplier
-- 📍 **Location:** Amsterdam, NH, Netherlands
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-24
-
-### [Process Engineer Wasserij](https://nl.indeed.com/viewjob?jk=2170e1d8f3ec2293) — Ergon
-- 📍 **Location:** Veldhoven, NB, Netherlands
-- 💰 **Salary:** $3246–$4556/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Pharmaceutical Packaging and Process Engineer](https://nl.indeed.com/viewjob?jk=1f42c045a01acc99) — Organon Pharmaceuticals
-- 📍 **Location:** Oss, NB, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-26
-
-### [Sr. Mechanical Engineer](https://ae.indeed.com/viewjob?jk=f755c8e60eea1ffc) — ARCCO Group of Companies
+### [MEP Mechanical Engineer](https://ae.indeed.com/viewjob?jk=a9e9fbe36f1bc0f4) — IRTH
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $1/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-27
+
+### [Automotive Mechanical Design Engineer](https://ae.indeed.com/viewjob?jk=c5b3fab11d74b59d) — Prestige Motors FZE
+- 📍 **Location:** Ras Al Khor, DU, United Arab Emirates
+- 💰 **Salary:** $5000–$8000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-27
+
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=0561929904262353) — TaaB Electro Mechanical L L C
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $3000/mo
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-27
 
-### [Junior Mechanical Engineer](https://ae.indeed.com/viewjob?jk=5d020978c836668d) — ARP UAE
+### [Estimation and Design Engineer](https://ae.indeed.com/viewjob?jk=73d59ae1b2c9b315) — Al GHURAIR INTERIOR LLC
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $15k/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-27
+
+### [Estimation and Design Engineer](https://ae.indeed.com/viewjob?jk=a46a6ef2f9bf314d) — AL GHURAIR MEP
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $15k/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-27
+
+### [CAD Engineer – MEP, Building Surveys & As-Found Drawings](https://ae.indeed.com/viewjob?jk=3be2b0fc31698f50) — SESC Group
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $4000–$5000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-27
+
+### [Process Engineer](https://ae.indeed.com/viewjob?jk=15c8444ff8578f8c) — Phoenician Technical Services L.L.C
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $6000/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-23
+
+### [Junior Mechanical Engineer](https://ae.indeed.com/viewjob?jk=e8957ad42919b2f3) — ARP UAE
 - 📍 **Location:** Dubai, DU, United Arab Emirates
 - 💰 **Salary:** $2500–$3800/mo
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-27
-
-### [Mechanical Project Engineer](https://ae.indeed.com/viewjob?jk=c04c5f7a8644f36c) — Al Turath Al Aseel Contracting LLC
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-27
-
-### [Mechanical Engineer - Site Supervision](https://ae.indeed.com/viewjob?jk=bed088bbba9c11ba) — Atrium Architectural & Engineering Consultancy
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Structural Design Engineer](https://ae.indeed.com/viewjob?jk=21b1a9569d8cd439) — BH.NS Engineering Consultants
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $15k–$25k/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Principal Process Engineer](https://ae.indeed.com/viewjob?jk=d7536696e2cc7b16) — McDermott
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-26
-
-### [Design Engineer](https://ae.indeed.com/viewjob?jk=b2c158d64d8cb8e4) — Manar Holding
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $1/mo
-- **Work mode:** On-site
-- **Job type:** fulltime, contract
 - 🕒 **Posted:** 2026-10-27
