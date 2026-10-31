@@ -1,91 +1,74 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-10-30 21:02 UTC*
+*Last updated: 2026-10-31 10:36 UTC*
 
-**14 new role(s)** since last run · 64 total in last 168h
+**11 new role(s)** since last run · 69 total in last 168h
 
-### [Lead Mechanical Engineer - machinebouw in Drechtsteden](https://nl.indeed.com/viewjob?jk=2e1fa22681cc16f9) — Dosign Engineering
-- 📍 **Location:** Drechtsteden, ZH, Netherlands
+### [Process Engineer - Simulation](https://nl.indeed.com/viewjob?jk=0067c15139abab0a) — Damen
+- 📍 **Location:** Vlissingen, ZE, Netherlands
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-30
+- 🕒 **Posted:** 2026-10-29
 
-### [Mechanical Design Engineer](https://nl.indeed.com/viewjob?jk=0d7062f830f10f61) — Royal Terberg Group
-- 📍 **Location:** Benschop, UT, Netherlands
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-30
-
-### [Junior Mechanical Engineer](https://nl.indeed.com/viewjob?jk=07357032301a60b9) — Cleantron Cleantech Batteries
-- 📍 **Location:** Nieuw-Vennep, NH, Netherlands
-- 💰 **Salary:** $2900–$3500/mo
+### [Senior Pharmaceutical Packaging and Process Engineer](https://nl.indeed.com/viewjob?jk=1f42c045a01acc99) — Organon Pharmaceuticals
+- 📍 **Location:** Oss, NB, Netherlands
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-30
+- 🕒 **Posted:** 2026-10-26
 
-### [Electromechanical Engineer for Test Facility - Temporary [26190]](https://nl.indeed.com/viewjob?jk=7649b25c754a2365) — Sopra Steria
-- 📍 **Location:** Noordwijk, ZH, Netherlands
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=974da32852f5341f) — C J Tec Contracting LLC
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $10k–$20k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-30
+- 🕒 **Posted:** 2026-10-31
 
-### [Lead Hardware Design Engineer](https://nl.indeed.com/viewjob?jk=f452d405742747d2) — ALFEN
-- 📍 **Location:** Almere, FL, Netherlands
-- 💰 **Salary:** $5250–$6750/mo
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=0561929904262353) — TaaB Electro Mechanical L L C
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $3000/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-27
+
+### [Sr. Mechanical Engineer](https://ae.indeed.com/viewjob?jk=f755c8e60eea1ffc) — ARCCO Group of Companies
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $1/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-27
+
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=b2bfdded67a11226) — El Dani Motors LLC
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-26
+
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=a8e2c148464f7be9) — finest technical services LLC
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $4000–$5000/mo
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-26
+
+### [Senior Mechanical Engineer](https://ae.indeed.com/viewjob?jk=1038766b3fb02144) — ARCCO Group of Companies
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $1/mo
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-29
 
-### [Manufacturing System & Process Engineer](https://nl.indeed.com/viewjob?jk=5852afab3719d745) — LELY
-- 📍 **Location:** Maassluis, ZH, Netherlands
-- 💰 **Salary:** $4200–$6000/mo
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-30
-
-### [CAD Engineer (PLM)](https://nl.indeed.com/viewjob?jk=a5f831a5c4ce1dc8) — Tecnotion Almelo B.V
-- 📍 **Location:** Almelo, OV, Netherlands
-- 💰 **Salary:** $3200–$4500/mo
-- **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-10-30
-
-### [CAD Engineer Security | Bosch Building Technologies](https://nl.indeed.com/viewjob?jk=99e7bdb95ebab31c) — Bosch
-- 📍 **Location:** Nieuwegein, UT, Netherlands
-- **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-10-30
-
-### [Supervisor Process Engineer](https://nl.indeed.com/viewjob?jk=cdbab492a8bf37c4) — NextGen
-- 📍 **Location:** Moerdijk, NB, Netherlands
+### [Estimation and Design Engineer](https://ae.indeed.com/viewjob?jk=a46a6ef2f9bf314d) — AL GHURAIR MEP
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $15k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-30
+- 🕒 **Posted:** 2026-10-27
 
-### [Process Engineer (Fulltime) | Breda](https://nl.indeed.com/viewjob?jk=7d259a610879ac06) — Synthos Breda BV
-- 📍 **Location:** Breda, NB, Netherlands
-- 💰 **Salary:** $6267–$8617/mo
+### [Electrical and Mechanical Engineering Instructor](https://ae.indeed.com/viewjob?jk=a1160e4411b8c374) — Universal Way Academy
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $4000–$6000/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-30
+- 🕒 **Posted:** 2026-10-27
 
-### [Senior Maintenance Engineer](https://ae.indeed.com/viewjob?jk=bc030d9b7526e887) — Servtech Technical Services llc
+### [Senior Principal Process Engineer](https://ae.indeed.com/viewjob?jk=d7536696e2cc7b16) — McDermott
 - 📍 **Location:** Dubai, DU, United Arab Emirates
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-30
-
-### [Mechanical Design Engineer](https://ae.indeed.com/viewjob?jk=c045b02f98d987db) — NA Architects Engineering Consultancy
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-30
-
-### [Mechanical Engineer with Infrastructure Experience](https://ae.indeed.com/viewjob?jk=8f70b95e5e0f8a50) — Modular General Contracting
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $7000–$10k/mo
-- **Work mode:** On-site
-- **Job type:** parttime, fulltime
-- 🕒 **Posted:** 2026-10-30
-
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=96a6c2b3310441b5) — High Power Signature
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $10k–$15k/mo
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-28
+- 🕒 **Posted:** 2026-10-26
