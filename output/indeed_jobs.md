@@ -1,64 +1,23 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-10-31 20:18 UTC*
+*Last updated: 2026-11-01 11:29 UTC*
 
-**10 new role(s)** since last run · 68 total in last 168h
+**3 new role(s)** since last run · 68 total in last 168h
 
-### [Process Engineer Netherlands - 2027](https://nl.indeed.com/viewjob?jk=5c2b19ca59f51709) — ExxonMobil
-- 📍 **Location:** Rotterdam, ZH, Netherlands
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-31
-
-### [Process Engineer - Simulation](https://nl.indeed.com/viewjob?jk=0067c15139abab0a) — Damen
-- 📍 **Location:** Vlissingen, ZE, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
-
-### [Senior Pharmaceutical Packaging and Process Engineer](https://nl.indeed.com/viewjob?jk=1f42c045a01acc99) — Organon Pharmaceuticals
-- 📍 **Location:** Oss, NB, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-26
-
-### [Mechanical Engineer – Fire Fighting](https://ae.indeed.com/viewjob?jk=642366f8a7bef465) — al manarah safety system
+### [Electrical Design Engineer](https://ae.indeed.com/viewjob?jk=83df9333a4e3ca89) — INTELLIGENT DATA COMMUNICATION
 - 📍 **Location:** Dubai, DU, United Arab Emirates
 - **Work mode:** On-site
-- **Job type:** fulltime, contract
-- 🕒 **Posted:** 2026-10-29
+- 🕒 **Posted:** 2026-11-01
 
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=0561929904262353) — TaaB Electro Mechanical L L C
+### [Electrical and Mechanical Engineering Instructor](https://ae.indeed.com/viewjob?jk=a1160e4411b8c374) — Universal Way Academy
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $3000/mo
+- 💰 **Salary:** $4000–$6000/mo
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-27
 
-### [Sr. Mechanical Engineer](https://ae.indeed.com/viewjob?jk=f755c8e60eea1ffc) — ARCCO Group of Companies
+### [Senior Structural Design Engineer](https://ae.indeed.com/viewjob?jk=21b1a9569d8cd439) — BH.NS Engineering Consultants
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $1/mo
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-27
-
-### [Mechanical Engineer - Site Supervision](https://ae.indeed.com/viewjob?jk=bed088bbba9c11ba) — Atrium Architectural & Engineering Consultancy
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-26
-
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=a8e2c148464f7be9) — finest technical services LLC
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $4000–$5000/mo
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-26
-
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=b2bfdded67a11226) — El Dani Motors LLC
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Principal Process Engineer](https://ae.indeed.com/viewjob?jk=d7536696e2cc7b16) — McDermott
-- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $15k–$25k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-26
