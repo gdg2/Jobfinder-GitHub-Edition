@@ -1,86 +1,86 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-11-05 12:44 UTC*
+*Last updated: 2026-11-05 22:17 UTC*
 
-**14 new role(s)** since last run · 58 total in last 168h
+**13 new role(s)** since last run · 57 total in last 168h
 
-### [Mechanical Design Engineer](https://nl.indeed.com/viewjob?jk=9d3e03267c4ea8f3) — Avantor
-- 📍 **Location:** Hillegom, ZH, Netherlands
+### [Junior Mechanical Engineer -Maintenance Team - Dutch Speaking](https://nl.indeed.com/viewjob?jk=8dd009bcfb913bf7) — Equinix
+- 📍 **Location:** Amsterdam, NH, Netherlands
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-04
+- **Job type:** fulltime, internship
+- 🕒 **Posted:** 2026-11-05
 
-### [Manufacturing Engineer](https://nl.indeed.com/viewjob?jk=1b58e852d47d24e1) — Medtronic
-- 📍 **Location:** Heerlen, LI, Netherlands
-- 💰 **Salary:** $56k–$84k/yr
+### [Manufacturing Engineer](https://nl.indeed.com/viewjob?jk=0fd105f0ec001b4d) — Emerson
+- 📍 **Location:** Ede, GE, Netherlands
+- 💰 **Salary:** $5400–$6200/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-05
 
-### [Freelance Senior/Lead Process Engineer Industrie regio Eindhoven](https://nl.indeed.com/viewjob?jk=ed1a5cb13234d48e) — Dosign Engineering
-- 📍 **Location:** Eindhoven, NB, Netherlands
+### [Asset Maintenance Engineer](https://nl.indeed.com/viewjob?jk=6c165f03703861b0) — Nouryon
+- 📍 **Location:** Deventer, OV, Netherlands
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-03
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-05
 
-### [Senior Process Engineer Afvalwater](https://nl.indeed.com/viewjob?jk=e014111e8e9e7c9f) — Evides Waterbedrijf
-- 📍 **Location:** Rotterdam, ZH, Netherlands
-- 💰 **Salary:** $7507/mo
+### [Associate Mechanical Engineer](https://ae.indeed.com/viewjob?jk=eda14d16ab91180c) — aesg
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-05
+
+### [Mechanical Design Engineer](https://ae.indeed.com/viewjob?jk=ef88c56d12c71979) — Kalvera Electromechanical Works LLC
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $7000–$9000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-05
+
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=f9b4754b2d5ef98b) — lllc
+- 📍 **Location:** Dubai, DU, United Arab Emirates
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-03
 
-### [Freelance Process Engineer Industrie Regio Eindhoven](https://nl.indeed.com/viewjob?jk=4969261be9931128) — Dosign Engineering
-- 📍 **Location:** Eindhoven, NB, Netherlands
+### [Senior Mechanical Engineer (MEP)](https://ae.indeed.com/viewjob?jk=118c44e638f02ad8) — Mecon Star Electromechanical Works LLC
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $7000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-03
+
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=a9b84a5d5bf81abf) — Al Abbas Gas
+- 📍 **Location:** Al Qusais, DU, United Arab Emirates
+- 💰 **Salary:** $2000–$3000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-03
+
+### [Senior Mechanical Engineer (MEP)](https://ae.indeed.com/viewjob?jk=d8746f6c3d5bc64c) — Atheer Al Jazirah ELecromechanical Works LLC
+- 📍 **Location:** Dubai, DU, United Arab Emirates
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-11-03
 
-### [Process Engineer, Powertrain Remanufacturing - Tilburg](https://nl.indeed.com/viewjob?jk=890662b654faa7fc) — Tesla
-- 📍 **Location:** Tilburg, NB, Netherlands
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=9394e9405f5437d0) — SADAF AL BAHAR TECHNICAL SERVICES L.L.C
+- 📍 **Location:** Ras Al Khor, DU, United Arab Emirates
+- 💰 **Salary:** $2000–$11k/mo
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-02
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-31
 
-### [Supervisor Process Engineer](https://nl.indeed.com/viewjob?jk=cdbab492a8bf37c4) — NextGen
-- 📍 **Location:** Moerdijk, NB, Netherlands
+### [Mechanical Design Engineer](https://ae.indeed.com/viewjob?jk=c045b02f98d987db) — NA Architects Engineering Consultancy
+- 📍 **Location:** Dubai, DU, United Arab Emirates
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
 
-### [Process Engineer - Simulation](https://nl.indeed.com/viewjob?jk=0067c15139abab0a) — Damen
-- 📍 **Location:** Vlissingen, ZE, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
-
-### [Allround Maintenance Engineer](https://nl.indeed.com/viewjob?jk=87cea789232a6bf3) — Techniquals
-- 📍 **Location:** Rotterdam, ZH, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
-
-### [Maintenance Engineer E](https://nl.indeed.com/viewjob?jk=78b2e5f03e78f9d1) — Techniquals
-- 📍 **Location:** Den Haag, ZH, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-29
-
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=302613c0e6ff06fb) — CITYCOMPASS ELECTROMECHANICAL LLC
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $8000–$10k/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-02
-
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=3631f575d52e26de) — Saifcoway fire equipment llc
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-02
-
-### [Steel Design Engineer](https://ae.indeed.com/viewjob?jk=a82fb0423891af32) — BAWABAT AL HUSN FACILITIES MANAGEMENT SERVICE
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=7a464e5d9713a374) — SSANGYONG ENGINEERING & CONSTRUCTION COMPANY LTD
 - 📍 **Location:** Dubai, DU, United Arab Emirates
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-02
+- 🕒 **Posted:** 2026-10-30
 
-### [Senior Design Engineer - Stormwater & Drainage](https://ae.indeed.com/viewjob?jk=bde069f713ad2fb3) — AECOM
+### [Mechanical Engineer with Infrastructure Experience](https://ae.indeed.com/viewjob?jk=8f70b95e5e0f8a50) — Modular General Contracting
 - 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $7000–$10k/mo
 - **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-11-05
+- **Job type:** parttime, fulltime
+- 🕒 **Posted:** 2026-10-30
