@@ -1,86 +1,82 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-11-05 22:17 UTC*
+*Last updated: 2026-11-06 12:28 UTC*
 
-**13 new role(s)** since last run · 57 total in last 168h
+**12 new role(s)** since last run · 60 total in last 168h
 
-### [Junior Mechanical Engineer -Maintenance Team - Dutch Speaking](https://nl.indeed.com/viewjob?jk=8dd009bcfb913bf7) — Equinix
+### [Manufacturing Engineer](https://nl.indeed.com/viewjob?jk=1b58e852d47d24e1) — Medtronic
+- 📍 **Location:** Heerlen, LI, Netherlands
+- 💰 **Salary:** $56k–$84k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-05
+
+### [Maintenance Engineer Havengebied](https://nl.indeed.com/viewjob?jk=0ec1048af23e6f9f) — Port of Amsterdam
 - 📍 **Location:** Amsterdam, NH, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime, internship
-- 🕒 **Posted:** 2026-11-05
-
-### [Manufacturing Engineer](https://nl.indeed.com/viewjob?jk=0fd105f0ec001b4d) — Emerson
-- 📍 **Location:** Ede, GE, Netherlands
-- 💰 **Salary:** $5400–$6200/mo
+- 💰 **Salary:** $4668–$6707/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-05
+- 🕒 **Posted:** 2026-11-06
 
-### [Asset Maintenance Engineer](https://nl.indeed.com/viewjob?jk=6c165f03703861b0) — Nouryon
-- 📍 **Location:** Deventer, OV, Netherlands
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=ab1ed36e5cd80d9a) — CONSULENZA
+- 📍 **Location:** Jebel Ali Freezone, DU, United Arab Emirates
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-05
+- **Job type:** contract
+- 🕒 **Posted:** 2026-11-06
 
-### [Associate Mechanical Engineer](https://ae.indeed.com/viewjob?jk=eda14d16ab91180c) — aesg
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-05
-
-### [Mechanical Design Engineer](https://ae.indeed.com/viewjob?jk=ef88c56d12c71979) — Kalvera Electromechanical Works LLC
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $7000–$9000/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-05
-
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=f9b4754b2d5ef98b) — lllc
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-03
-
-### [Senior Mechanical Engineer (MEP)](https://ae.indeed.com/viewjob?jk=118c44e638f02ad8) — Mecon Star Electromechanical Works LLC
+### [Senior Mechanical Engineer (MEP)](https://ae.indeed.com/viewjob?jk=df053dbb25529417) — Mecon Star Electromechanical Works LLC
 - 📍 **Location:** Dubai, DU, United Arab Emirates
 - 💰 **Salary:** $7000/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-03
+- 🕒 **Posted:** 2026-11-06
 
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=a9b84a5d5bf81abf) — Al Abbas Gas
-- 📍 **Location:** Al Qusais, DU, United Arab Emirates
-- 💰 **Salary:** $2000–$3000/mo
+### [Reliability & Maintenance Engineer - Mechanical](https://ae.indeed.com/viewjob?jk=5367692bc6983f2f) — Quant Gulf
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $12k–$15k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-03
+- 🕒 **Posted:** 2026-11-06
 
-### [Senior Mechanical Engineer (MEP)](https://ae.indeed.com/viewjob?jk=d8746f6c3d5bc64c) — Atheer Al Jazirah ELecromechanical Works LLC
+### [Mechanical Project Engineer](https://ae.indeed.com/viewjob?jk=40a7ed6053666e2a) — mepcontracting2017@gmail.com
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $21k/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-06
+
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=3631f575d52e26de) — Saifcoway fire equipment llc
 - 📍 **Location:** Dubai, DU, United Arab Emirates
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-03
+- 🕒 **Posted:** 2026-11-02
 
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=9394e9405f5437d0) — SADAF AL BAHAR TECHNICAL SERVICES L.L.C
-- 📍 **Location:** Ras Al Khor, DU, United Arab Emirates
-- 💰 **Salary:** $2000–$11k/mo
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=974da32852f5341f) — C J Tec Contracting LLC
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $10k–$20k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-31
 
-### [Mechanical Design Engineer](https://ae.indeed.com/viewjob?jk=c045b02f98d987db) — NA Architects Engineering Consultancy
+### [Pre Graduate Mechanical Engineer (UAE National)](https://ae.indeed.com/viewjob?jk=24d7ab7623bd8406) — Egis Group
 - 📍 **Location:** Dubai, DU, United Arab Emirates
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-30
+- 🕒 **Posted:** 2026-11-06
 
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=7a464e5d9713a374) — SSANGYONG ENGINEERING & CONSTRUCTION COMPANY LTD
+### [Process Engineer](https://ae.indeed.com/viewjob?jk=8f5926de695032e6) — CONSULENZA
+- 📍 **Location:** Jebel Ali Freezone, DU, United Arab Emirates
+- **Work mode:** On-site
+- **Job type:** contract
+- 🕒 **Posted:** 2026-11-06
+
+### [Senior Design Engineer - Water and Wastewater](https://ae.indeed.com/viewjob?jk=79d96d4b73278f49) — AECOM
 - 📍 **Location:** Dubai, DU, United Arab Emirates
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-30
+- **Job type:** contract
+- 🕒 **Posted:** 2026-11-05
 
-### [Mechanical Engineer with Infrastructure Experience](https://ae.indeed.com/viewjob?jk=8f70b95e5e0f8a50) — Modular General Contracting
+### [Biomedical / Medical Equipment Maintenance Engineer](https://ae.indeed.com/viewjob?jk=75588deae888ed20) — Laserix for Medical, Surgical Equipment & Instruments Trading Co. LLC
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $7000–$10k/mo
+- 💰 **Salary:** $2000–$8000/mo
 - **Work mode:** On-site
-- **Job type:** parttime, fulltime
-- 🕒 **Posted:** 2026-10-30
+- **Job type:** contract
+- 🕒 **Posted:** 2026-11-03
