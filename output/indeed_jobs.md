@@ -1,70 +1,59 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-11-13 12:38 UTC*
+*Last updated: 2026-11-13 22:11 UTC*
 
-**10 new role(s)** since last run · 86 total in last 168h
+**9 new role(s)** since last run · 74 total in last 168h
 
-### [Maintenance Engineer](https://nl.indeed.com/viewjob?jk=7bcceeb3f28a127d) — Van Oord
-- 📍 **Location:** Rotterdam, ZH, Netherlands
+### [(High Tech) Mechanical Engineer](https://nl.indeed.com/viewjob?jk=3647df14d6e6d841) — TMC
+- 📍 **Location:** Arnhem, GE, Netherlands
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-11
-
-### [Bijbaan mechanical engineering Solidworks](https://nl.indeed.com/viewjob?jk=48a993051d2cd32f) — Simbeton
-- 📍 **Location:** Markelo, OV, Netherlands
-- 💰 **Salary:** $2582–$3867/mo
-- **Work mode:** On-site
-- **Job type:** parttime, internship
-- 🕒 **Posted:** 2026-11-07
-
-### [MSAT Upstream Process Engineer III](https://nl.indeed.com/viewjob?jk=dbd7258e741c23f5) — Thermo Fisher Scientific
-- 📍 **Location:** Hoogkerk, GR, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-13
 
-### [Maintenance Engineer](https://nl.indeed.com/viewjob?jk=4c677dd5948f405b) — Equans
-- 📍 **Location:** Netherlands
-- 💰 **Salary:** $6100/mo
+### [Mechanical Engineer](https://nl.indeed.com/viewjob?jk=5b7d1d50f85e574d) — BMO Automation | BMO Precision Parts
+- 📍 **Location:** Nederweert, LI, Netherlands
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-11
-
-### [Design Engineer](https://ae.indeed.com/viewjob?jk=1ebb3ba910bfebed) — J&C Joel Middle East
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $10k–$12k/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
+- **Job type:** contract
 - 🕒 **Posted:** 2026-11-13
 
-### [Sr. Mechanical Engineer](https://ae.indeed.com/viewjob?jk=037f5455e3ff8e44) — Belco Electromechanical LLC
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $10k–$14k/mo
+### [Mechanical Project Engineer](https://nl.indeed.com/viewjob?jk=711cd2fd40231bfc) — Vecon Engineers
+- 📍 **Location:** Geleen, LI, Netherlands
+- 💰 **Salary:** $5000–$6750/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-13
+
+### [Principal Mechatronics Engineer](https://nl.indeed.com/viewjob?jk=5ecd1a7dae41f493) — TMC
+- 📍 **Location:** Eindhoven, NB, Netherlands
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-13
+
+### [Process Engineer](https://nl.indeed.com/viewjob?jk=e92139345e879b26) — LyondellBasell
+- 📍 **Location:** Moerdijk, NB, Netherlands
+- 💰 **Salary:** $64k–$98k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-12
 
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=25a9d0976ed83e38) — Gulf jewel contracting
+### [Repair & Maintenance Engineer](https://ae.indeed.com/viewjob?jk=275733727e4ce912) — Radisson Hotel Group
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $5000/mo
+- 💰 **Salary:** $5000–$5500/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-12
+- 🕒 **Posted:** 2026-11-13
 
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=9513f7daa5b7a93a) — Mazari Technical Works LLC
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=0cf6de9d4b3aa615) — Al Rowaad Electrcial Sanitary & AC installations LLC
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $8000–$14k/mo
+- 💰 **Salary:** $6000–$12k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-11
+- 🕒 **Posted:** 2026-11-13
 
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=e4704b32649a92be) — pmt
+### [Geotechnical Design Engineer](https://ae.indeed.com/viewjob?jk=b7af69ba8d476428) — Stylo
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $4000–$8000/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-07
+- 🕒 **Posted:** 2026-11-13
 
-### [Junior Mechanical Engineer (UAE Nationals Only)](https://ae.indeed.com/viewjob?jk=bb6b3142340441f9) — Six Construct
+### [Maintenance Engineer - Electrical](https://ae.indeed.com/viewjob?jk=26ee0656fee1f7cf) — Al MOOSA GROUP
 - 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $12k–$14k/mo
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-13
