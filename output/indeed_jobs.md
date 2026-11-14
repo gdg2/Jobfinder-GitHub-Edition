@@ -1,59 +1,74 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-11-13 22:11 UTC*
+*Last updated: 2026-11-14 11:45 UTC*
 
-**9 new role(s)** since last run · 74 total in last 168h
+**11 new role(s)** since last run · 78 total in last 168h
 
-### [(High Tech) Mechanical Engineer](https://nl.indeed.com/viewjob?jk=3647df14d6e6d841) — TMC
-- 📍 **Location:** Arnhem, GE, Netherlands
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-13
-
-### [Mechanical Engineer](https://nl.indeed.com/viewjob?jk=5b7d1d50f85e574d) — BMO Automation | BMO Precision Parts
-- 📍 **Location:** Nederweert, LI, Netherlands
-- **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-11-13
-
-### [Mechanical Project Engineer](https://nl.indeed.com/viewjob?jk=711cd2fd40231bfc) — Vecon Engineers
+### [Mechanical Project Engineer](https://nl.indeed.com/viewjob?jk=7483ad0556a12a10) — Vecon Engineers
 - 📍 **Location:** Geleen, LI, Netherlands
-- 💰 **Salary:** $5000–$6750/mo
+- 💰 **Salary:** $4250–$6250/mo
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-11-13
 
-### [Principal Mechatronics Engineer](https://nl.indeed.com/viewjob?jk=5ecd1a7dae41f493) — TMC
+### [Senior Mechanical Engineer – High-Temperature & High-Pressure Equipment](https://nl.indeed.com/viewjob?jk=2dc05325446e086e) — MCA Groupe
 - 📍 **Location:** Eindhoven, NB, Netherlands
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-11-13
 
-### [Process Engineer](https://nl.indeed.com/viewjob?jk=e92139345e879b26) — LyondellBasell
-- 📍 **Location:** Moerdijk, NB, Netherlands
-- 💰 **Salary:** $64k–$98k/yr
+### [Manufacturing Engineer](https://nl.indeed.com/viewjob?jk=2d0ef9a2ada24e4d) — Optics11 Life
+- 📍 **Location:** Amsterdam-Zuidoost, NH, Netherlands
 - **Work mode:** On-site
 - **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-11
+
+### [PROCESS ENGINEER III - NLD](https://nl.indeed.com/viewjob?jk=82c7c05ec3be9601) — Ashland
+- 📍 **Location:** Zwijndrecht, ZH, Netherlands
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-14
+
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=9311e2c93c439240) — Inspirations Group
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $3000–$11k/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-14
+
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=01c475380bcf7cc9) — سري
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- **Work mode:** On-site
+- **Job type:** temporary, fulltime, contract
 - 🕒 **Posted:** 2026-11-12
 
-### [Repair & Maintenance Engineer](https://ae.indeed.com/viewjob?jk=275733727e4ce912) — Radisson Hotel Group
+### [Mechanical Engineer (HVAC)](https://ae.indeed.com/viewjob?jk=9389a505af65a9d3) — Skyzo Technical Services
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $5000–$5500/mo
+- 💰 **Salary:** $3000–$4000/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-13
+- 🕒 **Posted:** 2026-11-11
 
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=0cf6de9d4b3aa615) — Al Rowaad Electrcial Sanitary & AC installations LLC
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=9513f7daa5b7a93a) — Mazari Technical Works LLC
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $6000–$12k/mo
+- 💰 **Salary:** $8000–$14k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-13
+- 🕒 **Posted:** 2026-11-11
 
-### [Geotechnical Design Engineer](https://ae.indeed.com/viewjob?jk=b7af69ba8d476428) — Stylo
-- 📍 **Location:** Dubai, DU, United Arab Emirates
+### [Senior Mechanical Design Engineer](https://ae.indeed.com/viewjob?jk=55d899c6a7c643d8) — Access Consult LLC
+- 📍 **Location:** Dubai Silicon Oasis, DU, United Arab Emirates
+- 💰 **Salary:** $10k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-13
+- 🕒 **Posted:** 2026-11-10
 
-### [Maintenance Engineer - Electrical](https://ae.indeed.com/viewjob?jk=26ee0656fee1f7cf) — Al MOOSA GROUP
+### [Mechanical Engineer/Electric Engineer](https://ae.indeed.com/viewjob?jk=ab2a5c69a36fcaac) — Safe Star Consultant
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $12k–$14k/mo
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-13
+- **Job type:** fulltime, contract
+- 🕒 **Posted:** 2026-11-09
+
+### [Mechanical Engineer - MEP / Interior Fit-Out](https://ae.indeed.com/viewjob?jk=864dff14425d940c) — The Code 
+- 📍 **Location:** Dubai Healthcare City, DU, United Arab Emirates
+- 💰 **Salary:** $5000–$6000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-09
