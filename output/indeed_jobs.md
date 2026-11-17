@@ -1,43 +1,56 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-11-16 13:10 UTC*
+*Last updated: 2026-11-17 00:29 UTC*
 
-**6 new role(s)** since last run · 69 total in last 168h
+**8 new role(s)** since last run · 62 total in last 168h
 
-### [Mechanical Project Engineer](https://ae.indeed.com/viewjob?jk=b7afd1b79d0781e1) — HTL Electromechanical Contracting LLC
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $5000/mo
+### [Senior Mechanical Engineer](https://nl.indeed.com/viewjob?jk=6a8740d8f8c6616c) — Nederlandse Deep-Tech Startup
+- 📍 **Location:** Utrecht, UT, Netherlands
+- 💰 **Salary:** $5000–$7000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime, contract
+- 🕒 **Posted:** 2026-11-16
+
+### [Manufacturing Engineer](https://nl.indeed.com/viewjob?jk=2d0ef9a2ada24e4d) — Optics11 Life
+- 📍 **Location:** Amsterdam-Zuidoost, NH, Netherlands
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-11
+
+### [Process Engineer](https://nl.indeed.com/viewjob?jk=528b28e930ea68e9) — NTS
+- 📍 **Location:** Eindhoven, NB, Netherlands
+- 💰 **Salary:** $3734–$5231/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-16
 
-### [Sr. Mechanical Engineer](https://ae.indeed.com/viewjob?jk=037f5455e3ff8e44) — Belco Electromechanical LLC
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $10k–$14k/mo
+### [Senior Process Engineer Chemie Regio Zuid-Limburg](https://nl.indeed.com/viewjob?jk=a86b7f35c626358f) — Dosign Engineering
+- 📍 **Location:** Geleen, LI, Netherlands
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-16
+
+### [Logistiek Process Engineer](https://nl.indeed.com/viewjob?jk=6c8693ab2147d4f8) — Isero
+- 📍 **Location:** Waddinxveen, ZH, Netherlands
+- 💰 **Salary:** $3800–$5700/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-12
+- 🕒 **Posted:** 2026-11-11
 
-### [Manufacturing Engineer – Chassis Manufacturing Division](https://ae.indeed.com/viewjob?jk=764580e6af7a215d) — Naffco
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $5000–$6000/mo
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-10
-
-### [AI Process Engineer (Temporary)](https://ae.indeed.com/viewjob?jk=069f6762afc55dc0) — Medtronic
+### [AI Native Creative Director - EdTech (French fluent )](https://ae.indeed.com/viewjob?jk=e33f091947d81900) — Paradox
 - 📍 **Location:** Dubai, DU, United Arab Emirates
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-13
+- 🕒 **Posted:** 2026-11-16
 
-### [HVAC Design Engineer (Healthcare)](https://ae.indeed.com/viewjob?jk=b94c981a5cd6bab2) — Creative H M C Interior Design LLC
+### [Electrical Design Engineer](https://ae.indeed.com/viewjob?jk=f5c5444b94736bcf) — Five Global Recruitment
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $7000–$10k/mo
+- 💰 **Salary:** $18k–$22k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-16
 
-### [Maintenance Engineer - Electrical](https://ae.indeed.com/viewjob?jk=26ee0656fee1f7cf) — Al MOOSA GROUP
+### [Junior Mechanical Engineer (Fire Fighting & Fire Alarm)](https://ae.indeed.com/viewjob?jk=a2899372d8d18368) — ARCOTECH SAFETY ELECTROMECHANICAL WORKS
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $12k–$14k/mo
+- 💰 **Salary:** $2499–$2500/mo
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-13
+- **Job type:** contract
+- 🕒 **Posted:** 2026-11-16
