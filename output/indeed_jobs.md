@@ -1,87 +1,122 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-11-18 23:08 UTC*
+*Last updated: 2026-11-19 13:54 UTC*
 
-**13 new role(s)** since last run · 71 total in last 168h
+**19 new role(s)** since last run · 79 total in last 168h
 
-### [Junior Mechanical Engineer](https://nl.indeed.com/viewjob?jk=ff4638b0c8302beb) — Huisman Equipment
-- 📍 **Location:** Enschede, OV, Netherlands
-- 💰 **Salary:** $2900–$4200/mo
+### [Mechanical Designer](https://nl.indeed.com/viewjob?jk=1952286e373db9eb) — Vecon Engineers
+- 📍 **Location:** Weert, LI, Netherlands
+- 💰 **Salary:** $3150–$3750/mo
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Mechanical Design Engineer (€4.000 – €6.500)](https://nl.indeed.com/viewjob?jk=bd79f5034df03bd0) — Settels Savenije Group of Companies
-- 📍 **Location:** Eindhoven, NB, Netherlands
-- 💰 **Salary:** $4000–$6500/mo
+### [Stage Product Development Engineering](https://nl.indeed.com/viewjob?jk=f23579886cfb45eb) — ALFEN
+- 📍 **Location:** Almere, FL, Netherlands
+- 💰 **Salary:** $500–$600/mo
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-18
+- **Job type:** internship
+- 🕒 **Posted:** 2026-11-19
 
-### [Mechanical & CAM Manufacturing Engineer](https://nl.indeed.com/viewjob?jk=1976ee4c3a47ff45) — ARC
-- 📍 **Location:** Groningen, GR, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-18
-
-### [Reliability & Maintenance Engineer](https://nl.indeed.com/viewjob?jk=642961fcfc5cd790) — Fokker Services Group
-- 📍 **Location:** Hoofddorp, NH, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-18
-
-### [Process Engineer Logistics](https://nl.indeed.com/viewjob?jk=07525934b58374a3) — DHL
-- 📍 **Location:** Nijmegen, GE, Netherlands
-- 💰 **Salary:** $3361.61–$5101.49/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-18
-
-### [Surface Finishing & Chemical Process Engineer](https://nl.indeed.com/viewjob?jk=ea99796e6eec4b57) — ARC
-- 📍 **Location:** Groningen, GR, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-18
-
-### [Process Engineer - High Precision Surfaces](https://nl.indeed.com/viewjob?jk=8cf528f957901953) — Anteryon
-- 📍 **Location:** Eindhoven, NB, Netherlands
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-17
-
-### [Senior Bioprocess Engineer](https://nl.indeed.com/viewjob?jk=16e3d201d6d591e8) — Mosa Meat
-- 📍 **Location:** Maastricht, LI, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-17
-
-### [Process Engineer](https://nl.indeed.com/viewjob?jk=528b28e930ea68e9) — NTS
-- 📍 **Location:** Eindhoven, NB, Netherlands
-- 💰 **Salary:** $3734–$5231/mo
+### [Service Manager & Senior Spacecraft Test / Mechanical Engineer](https://nl.indeed.com/viewjob?jk=88c0447b430f4606) — Serco
+- 📍 **Location:** Noordwijk, ZH, Netherlands
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-16
 
-### [Maintenance Engineer](https://nl.indeed.com/viewjob?jk=a60cc0c5ce8ced7e) — Equans Offshore Services
-- 📍 **Location:** Den Helder, NH, Netherlands
-- 💰 **Salary:** $4185–$7448/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-18
-
-### [Maintenance Engineer](https://nl.indeed.com/viewjob?jk=0feeff77d27a411e) — Tate & Lyle
-- 📍 **Location:** Koog aan de Zaan, NH, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-18
-
-### [Mechanical Design Engineer](https://ae.indeed.com/viewjob?jk=0ce55263197c0c65) — Expedite Pro Documents Services
+### [General Maintenance Engineer](https://ae.indeed.com/viewjob?jk=49c0fbfcb2422b09) — ياس الدولية العقارية
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $6000–$7000/mo
+- 💰 **Salary:** $15k–$18k/mo
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-18
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-19
 
-### [Design Engineer - Automotive - Dubai](https://ae.indeed.com/viewjob?jk=ba34c88ce7719bf1) — Sanvi Business Solutions
+### [Mechanical Design Engineer](https://ae.indeed.com/viewjob?jk=a03625e032b12888) — FGC Contracting LLC
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-19
+
+### [MECHANICAL ENGINEER (2 Year UAE Experience) - MEP Focus](https://ae.indeed.com/viewjob?jk=eda3d0655f4f82b2) — Tricircle Technical Services 
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-19
+
+### [MECHANICAL ENGINEER - MEP Focus](https://ae.indeed.com/viewjob?jk=99a27c0f4cd212bd) — Tricircle Technical Services 
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-19
+
+### [Mechanical Engineer (HVAC)](https://ae.indeed.com/viewjob?jk=43564f1629029f6d) — Green Bird Electromechanical LLC
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-19
+
+### [Design Engineer - Automotive/Sheet Metal - Dubai](https://ae.indeed.com/viewjob?jk=bb7a306f3cd840e5) — Sanvi Business Solutions
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $4000–$5000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-19
+
+### [Product Design Engineer](https://ae.indeed.com/viewjob?jk=fa5f6d8d731b1c90) — Arbitrary Products Design Services LLC
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $4500–$5500/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-19
+
+### [Mechanical Design Engineer (Static Equipment)](https://ae.indeed.com/viewjob?jk=89803bb14c18d336) — WINTER REFRIGERATION Industrial Equipment Manufacturing LLC
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-19
+
+### [Mechanical Engineer (MEP )](https://ae.indeed.com/viewjob?jk=4e1139aafbef20d1) — High Power Signature
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $8000–$12k/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-17
+
+### [SENIOR MECHANICAL ENGINEER (HIGH-RISE CONSTRUCTION)](https://ae.indeed.com/viewjob?jk=64ab6c66870e5b60) — Gulf Modern Contracting
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-17
+
+### [Lead Engineer (Senior Mechanical Engineer (Static)](https://ae.indeed.com/viewjob?jk=7f361e804eab2937) — Expro
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-19
+
+### [Senior Engineer 2 (Process Engineer)](https://ae.indeed.com/viewjob?jk=ceca32e12b53bebc) — Expro
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-19
+
+### [Design Engineer – Interior Fit-Out & Construction](https://ae.indeed.com/viewjob?jk=109112332cc09692) — AMBER BUILDING CONTRACTING L.L.C - KHALID AL ATTAR GROUP
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $6000–$7500/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-17
+
+### [Civil/ HVAC Engineer](https://ae.indeed.com/viewjob?jk=32d40faabb0b3f74) — Horizon Cool Technical Services LLC
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $2700–$3000/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-19
+
+### [Site HVAC Engineer](https://ae.indeed.com/viewjob?jk=686a26f9aa97cc6d) — Emirates Engineer Consulting Engineering
 - 📍 **Location:** Dubai, DU, United Arab Emirates
 - 💰 **Salary:** $4000–$5000/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-18
+
+### [Maintenance Engineer - Electrical](https://ae.indeed.com/viewjob?jk=26ee0656fee1f7cf) — Al MOOSA GROUP
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $12k–$14k/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-13
