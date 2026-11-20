@@ -1,28 +1,34 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-11-19 23:13 UTC*
+*Last updated: 2026-11-20 13:36 UTC*
 
-**4 new role(s)** since last run · 69 total in last 168h
+**5 new role(s)** since last run · 61 total in last 168h
 
-### [Metal process engineer](https://nl.indeed.com/viewjob?jk=04f2120d91064532) — SMART Photonics
+### [Electro-mechanical Engineer](https://nl.indeed.com/viewjob?jk=49ee33f93bb8941a) — ALTEN
 - 📍 **Location:** Eindhoven, NB, Netherlands
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-19
+- 🕒 **Posted:** 2026-11-17
 
-### [Sales Engineer (Mechanical Engineer)](https://ae.indeed.com/viewjob?jk=6ca28ac7b9576591) — Mincom Trading LLC
-- 📍 **Location:** Dubai, DU, United Arab Emirates
+### [Junior Manufacturing Engineer](https://nl.indeed.com/viewjob?jk=19f4de4c967eacf7) — Applied Medical
+- 📍 **Location:** Amersfoort, UT, Netherlands
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-17
+
+### [Senior Bioprocess Engineer](https://nl.indeed.com/viewjob?jk=16e3d201d6d591e8) — Mosa Meat
+- 📍 **Location:** Maastricht, LI, Netherlands
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-17
 
-### [Senior Mechanical Engineer](https://ae.indeed.com/viewjob?jk=e82201d8b1b1058a) — Arec Engineering Consultants
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=ce291897032aabce) — Eiffel Management
 - 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $15k–$25k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-17
 
-### [Senior MEP Design Engineer](https://ae.indeed.com/viewjob?jk=3c445a2b25f3b0b2) — Arco Turnkey Solutions Contracting L.L.C
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=6b5d70a7fd1d886e) — Newell electromechanical works
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $4600–$17k/mo
+- 💰 **Salary:** $6000–$10k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-20
