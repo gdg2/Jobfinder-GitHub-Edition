@@ -1,80 +1,42 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-11-20 22:49 UTC*
+*Last updated: 2026-11-21 13:00 UTC*
 
-**13 new role(s)** since last run · 68 total in last 168h
+**6 new role(s)** since last run · 65 total in last 168h
 
-### [Mechanical Engineer - Lightweight Structures](https://nl.indeed.com/viewjob?jk=84cb011bc1e263b7) — Avular B.V.
-- 📍 **Location:** Eindhoven, NB, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-20
-
-### [Stagiair / Afstudeerder Mechanical Engineer](https://nl.indeed.com/viewjob?jk=8cbbff2b19613e13) — VIRO
-- 📍 **Location:** Hengelo OV, OV, Netherlands
-- **Work mode:** On-site
-- **Job type:** internship
-- 🕒 **Posted:** 2026-11-20
-
-### [Senior Mechanical Engineer](https://nl.indeed.com/viewjob?jk=e6577afd24aaa857) — Avular B.V.
-- 📍 **Location:** Eindhoven, NB, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-20
-
-### [Electro-mechanical Designer](https://nl.indeed.com/viewjob?jk=29d5c394fde1740b) — Sioux Technologies
-- 📍 **Location:** Eindhoven, NB, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-20
-
-### [Senior Process Engineer, Battery Pack Remanufacturing](https://nl.indeed.com/viewjob?jk=07821dabb6dcf2b7) — Tesla
-- 📍 **Location:** Tilburg, NB, Netherlands
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-20
-
-### [Manufacturing Engineer Assy (NPI)](https://nl.indeed.com/viewjob?jk=1cfb677b1fac2c43) — VDL Groep
-- 📍 **Location:** Eindhoven, NB, Netherlands
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-20
-
-### [Metal process engineer](https://nl.indeed.com/viewjob?jk=04f2120d91064532) — SMART Photonics
-- 📍 **Location:** Eindhoven, NB, Netherlands
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-19
-
-### [Service Manager & Senior Spacecraft Test / Mechanical Engineer](https://nl.indeed.com/viewjob?jk=866f0e92a7769a52) — Serco
-- 📍 **Location:** Noordwijk, ZH, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-16
-
-### [Senior Mechanical Engineer](https://ae.indeed.com/viewjob?jk=11f9200fa657ab25) — Imperial Group Pty Ltd
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $15k–$22k/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-20
-
-### [Mechanical Engineer – Solar Project](https://ae.indeed.com/viewjob?jk=2742362e1c9fbb08) — ZEBRA CITY BUILDING CONTRACTING
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-18
-
-### [Senior Mechanical Engineer](https://ae.indeed.com/viewjob?jk=e82201d8b1b1058a) — Arec Engineering Consultants
-- 📍 **Location:** Dubai, DU, United Arab Emirates
+### [Reliability & Maintenance Engineer](https://nl.indeed.com/viewjob?jk=642961fcfc5cd790) — Fokker Services Group
+- 📍 **Location:** Hoofddorp, NH, Netherlands
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-18
 
-### [Mechanical Engineer (MEP )](https://ae.indeed.com/viewjob?jk=4e1139aafbef20d1) — High Power Signature
+### [Junior Mechanical Engineer](https://ae.indeed.com/viewjob?jk=407f24b26d772981) — EURO GULF FITOUT
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $8000–$12k/mo
+- 💰 **Salary:** $10k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-17
+- 🕒 **Posted:** 2026-11-21
 
-### [Sales Engineer (Mechanical Engineer)](https://ae.indeed.com/viewjob?jk=6ca28ac7b9576591) — Mincom Trading LLC
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=18f9380cb9f9da34) — BNS Contracting LLC
 - 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $4000–$8000/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-21
+
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=a399e179458649b3) — Emirates Engineer Consulting Engineering
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $8000–$10k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-17
+- 🕒 **Posted:** 2026-11-21
+
+### [MEP Design Engineer](https://ae.indeed.com/viewjob?jk=4f75a83ae7787605) — tech and mech electromechanical works
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $5000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-21
+
+### [Site Mechanical Engineer (MEP)](https://ae.indeed.com/viewjob?jk=45a312f678c67424) — Atheer Al Jazirah ELecromechanical Works LLC
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-21
