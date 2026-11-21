@@ -1,42 +1,35 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-11-21 13:00 UTC*
+*Last updated: 2026-11-21 21:53 UTC*
 
-**6 new role(s)** since last run · 65 total in last 168h
+**5 new role(s)** since last run · 56 total in last 168h
 
-### [Reliability & Maintenance Engineer](https://nl.indeed.com/viewjob?jk=642961fcfc5cd790) — Fokker Services Group
-- 📍 **Location:** Hoofddorp, NH, Netherlands
+### [Mechanical Engineer – Solar Project](https://ae.indeed.com/viewjob?jk=2742362e1c9fbb08) — ZEBRA CITY BUILDING CONTRACTING
+- 📍 **Location:** Dubai, DU, United Arab Emirates
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-18
 
-### [Junior Mechanical Engineer](https://ae.indeed.com/viewjob?jk=407f24b26d772981) — EURO GULF FITOUT
+### [Mechanical Engineer (MEP )](https://ae.indeed.com/viewjob?jk=4e1139aafbef20d1) — High Power Signature
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $10k/mo
+- 💰 **Salary:** $8000–$12k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-21
+- 🕒 **Posted:** 2026-11-17
 
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=18f9380cb9f9da34) — BNS Contracting LLC
+### [Sales Engineer (Mechanical Engineer)](https://ae.indeed.com/viewjob?jk=6ca28ac7b9576591) — Mincom Trading LLC
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $4000–$8000/mo
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-21
-
-### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=a399e179458649b3) — Emirates Engineer Consulting Engineering
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $8000–$10k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-21
+- 🕒 **Posted:** 2026-11-17
 
-### [MEP Design Engineer](https://ae.indeed.com/viewjob?jk=4f75a83ae7787605) — tech and mech electromechanical works
+### [Senior Mechanical Engineer - Energy & Industrial](https://ae.indeed.com/viewjob?jk=676db4c94bdc047c) — Sargent & Lundy
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-17
+
+### [Mechanical Project Engineer](https://ae.indeed.com/viewjob?jk=63bc76f259eb8c7e) — HTL Electromechanical Contracting LLC
 - 📍 **Location:** Dubai, DU, United Arab Emirates
 - 💰 **Salary:** $5000/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-21
-
-### [Site Mechanical Engineer (MEP)](https://ae.indeed.com/viewjob?jk=45a312f678c67424) — Atheer Al Jazirah ELecromechanical Works LLC
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- **Work mode:** On-site
 - 🕒 **Posted:** 2026-11-21
