@@ -1,5 +1,5 @@
 # 🔎 Google Jobs — Mechanical Engineering Roles
-*Last updated: 2026-11-23 18:40 UTC*
+*Last updated: 2026-11-24 18:10 UTC*
 
 **0 new role(s)** since last run · 20 total in last 168h
 
