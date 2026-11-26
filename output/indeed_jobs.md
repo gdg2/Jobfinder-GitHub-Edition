@@ -1,74 +1,30 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-11-25 14:58 UTC*
+*Last updated: 2026-11-26 00:40 UTC*
 
-**11 new role(s)** since last run · 67 total in last 168h
+**4 new role(s)** since last run · 63 total in last 168h
 
-### [Junior Mechanical Engineer](https://nl.indeed.com/viewjob?jk=70645b5f95efb651) — Olmia BV
-- 📍 **Location:** Tiel, GE, Netherlands
-- 💰 **Salary:** $3300/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-25
-
-### [Mechanical Designer](https://nl.indeed.com/viewjob?jk=1952286e373db9eb) — Vecon Engineers
-- 📍 **Location:** Weert, LI, Netherlands
-- 💰 **Salary:** $3150–$3750/mo
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-19
-
-### [MSAT Downstream Process Engineer III](https://nl.indeed.com/viewjob?jk=e1731d061153af43) — Thermo Fisher Scientific
-- 📍 **Location:** Hoogkerk, GR, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-25
-
-### [MSAT Upstream Process Engineer III](https://nl.indeed.com/viewjob?jk=ebfd74c4e69dac71) — Thermo Fisher Scientific
-- 📍 **Location:** Hoogkerk, GR, Netherlands
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-25
-
-### [Field Process Engineer](https://nl.indeed.com/viewjob?jk=5e7e383581a76958) — Equans
-- 📍 **Location:** Veldhoven, NB, Netherlands
-- 💰 **Salary:** $4717–$6738/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-25
-
-### [Mask Design Engineer](https://nl.indeed.com/viewjob?jk=65173b2f82668137) — TNO
-- 📍 **Location:** Eindhoven, NB, Netherlands
-- 💰 **Salary:** $4131–$5902/mo
+### [Process Engineer](https://nl.indeed.com/viewjob?jk=114490865bf3a377) — Polem
+- 📍 **Location:** Lemmer, FR, Netherlands
+- 💰 **Salary:** $3992–$5265/mo
 - **Work mode:** On-site
 - **Job type:** parttime, fulltime
 - 🕒 **Posted:** 2026-11-25
 
-### [Junior Design Engineer](https://ae.indeed.com/viewjob?jk=657891163d87920b) — Kinetics Middle East LLC
-- 📍 **Location:** Dubai, DU, United Arab Emirates
+### [Process Engineer Service Center](https://nl.indeed.com/viewjob?jk=5730b661b630000d) — HQ Pack
+- 📍 **Location:** Eindhoven, NB, Netherlands
+- 💰 **Salary:** $3200–$4300/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-25
+- 🕒 **Posted:** 2026-11-23
 
-### [Mechanical Engineer – Solar PV Projects](https://ae.indeed.com/viewjob?jk=5f3490c35c5aceef) — ZEBRA CITY BUILDING CONTRACTING
-- 📍 **Location:** Dubai, DU, United Arab Emirates
+### [Metal process engineer](https://nl.indeed.com/viewjob?jk=04f2120d91064532) — SMART Photonics
+- 📍 **Location:** Eindhoven, NB, Netherlands
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-25
+- 🕒 **Posted:** 2026-11-19
 
-### [Senior Mechanical Engineer - Site](https://ae.indeed.com/viewjob?jk=bff23b7f038b4dbe) — Egis Group
+### [ENGINE BUILDER / MECHANICAL ENGINEER — GERMAN CARS](https://ae.indeed.com/viewjob?jk=6bdba52afed734c9) — Dafos
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-25
-
-### [Senior Mechanical Engineer](https://ae.indeed.com/viewjob?jk=a1b415e06cdd8fdb) — Saifco electromechanical works
-- 📍 **Location:** Dubai, DU, United Arab Emirates
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-25
-
-### [Senior Mechanical Engineer](https://ae.indeed.com/viewjob?jk=92c37f88c04e0a89) — High Power Signature
-- 📍 **Location:** Dubai International City, DU, United Arab Emirates
-- 💰 **Salary:** $11k–$13k/mo
+- 💰 **Salary:** $3000–$8000/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-25
