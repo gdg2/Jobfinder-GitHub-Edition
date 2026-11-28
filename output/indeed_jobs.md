@@ -1,37 +1,30 @@
 # 🟦 Indeed — Mechanical Engineering Roles
-*Last updated: 2026-11-28 00:14 UTC*
+*Last updated: 2026-11-28 13:36 UTC*
 
-**6 new role(s)** since last run · 74 total in last 168h
+**4 new role(s)** since last run · 72 total in last 168h
 
-### [Senior Mechanical Engineer | Engineering & Constructie](https://nl.indeed.com/viewjob?jk=08e68d17bebdd807) — ELM Bouwmachines B.V.
-- 📍 **Location:** Waddinxveen, ZH, Netherlands
+### [Maintenance Engineer (24 – 32 uur)](https://nl.indeed.com/viewjob?jk=e5fd363250a7a833) — Vector Maintenance Management
+- 📍 **Location:** Den Helder, NH, Netherlands
 - **Work mode:** On-site
+- **Job type:** parttime
 - 🕒 **Posted:** 2026-11-27
 
-### [Mechanical Design Engineer](https://nl.indeed.com/viewjob?jk=747f27f4a511a8ef) — Anteryon
-- 📍 **Location:** Netherlands
+### [Mechanical Engineer](https://ae.indeed.com/viewjob?jk=bb57dda0fd7190b0) — The Icon Casa Properties
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $6000–$8000/mo
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-26
+- **Job type:** fulltime, contract
+- 🕒 **Posted:** 2026-11-28
 
-### [Maintenance Engineer](https://nl.indeed.com/viewjob?jk=ba75a8596a5069b3) — Allseas
-- 📍 **Location:** Delft, ZH, Netherlands
+### [Senior MEP Design Engineer](https://ae.indeed.com/viewjob?jk=4913806bfa1f71cc) — Arco Turnkey Solutions Contracting L.L.C
+- 📍 **Location:** Dubai, DU, United Arab Emirates
+- 💰 **Salary:** $4600–$17k/mo
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-27
-
-### [Maintenance Engineer](https://nl.indeed.com/viewjob?jk=42c330bfa79886e3) — HoSt Group Bioenergy Systems
-- 📍 **Location:** Hengelo OV, OV, Netherlands
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-27
-
-### [Process Engineer](https://nl.indeed.com/viewjob?jk=ec59f22120f34a81) — Gerard Perrier Industrie
-- 📍 **Location:** Gouda, ZH, Netherlands
-- 💰 **Salary:** $4200–$5600/mo
-- **Work mode:** On-site
-- **Job type:** parttime, fulltime
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-24
 
-### [Senior Electrical Design Engineer](https://ae.indeed.com/viewjob?jk=51dfbf7f5ee90cf8) — ARCCO Group of Companies
+### [AI Native Creative Director](https://ae.indeed.com/viewjob?jk=e24b6b9f2472ad62) — Paradox Group
 - 📍 **Location:** Dubai, DU, United Arab Emirates
-- 💰 **Salary:** $1/mo
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-27
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-28
